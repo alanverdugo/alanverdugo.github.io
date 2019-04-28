@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Kippel
-description: Software Developer
+description: No one can win against kippel
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: https://alanverdugo.github.io/
@@ -16,17 +16,17 @@ copyright: 2013-2019
 share:
   facebook: true
   twitter: true
-  gplus: true
+  gplus: false
   linkedin: true
   pinterest: true
   email: true
 
 social:
   github: alanverdugo
-  stackoverflow: ''
+  #stackoverflow: ''
   linkedin: alanverdugo
-  instagram: ''
-  lastfm: ''
+  #instagram: ''
+  #lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
