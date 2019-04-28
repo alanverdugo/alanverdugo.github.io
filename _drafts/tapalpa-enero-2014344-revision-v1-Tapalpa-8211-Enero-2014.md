@@ -1,0 +1,148 @@
+---
+id: 345
+title: 'Tapalpa &#8211; Enero 2014'
+date: 2014-02-06T19:14:36-05:00
+author: Alan Verdugo
+layout: revision
+guid: http://www.kippel.net/blog/?p=345
+permalink: /?p=345
+---
+<div id='gallery-3' class='gallery galleryid-345 gallery-columns-3 gallery-size-thumbnail'>
+  <figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=302'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_001m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=304'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_003m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=305'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_004m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=306'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_005m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=307'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_006m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=316'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_006m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=315'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_005m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=314'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_004m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=313'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_003m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=312'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_014m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon portrait'>
+    <a href='http://www.kippel.net/blog/?attachment_id=311'><img width="84" height="150" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_013m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon portrait'>
+    <a href='http://www.kippel.net/blog/?attachment_id=310'><img width="84" height="150" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_012m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=308'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140125_007m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=317'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_007m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=319'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_009m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=320'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_010m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=321'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_011m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=322'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_012m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=323'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_013m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=325'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_015m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=332'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_022m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=331'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_021m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=330'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_020m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=329'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_019m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=326'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_016m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=335'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_025m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon portrait'>
+    <a href='http://www.kippel.net/blog/?attachment_id=336'><img width="84" height="150" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_026m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=337'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_027m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=338'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_028m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=339'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_029m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=340'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_030m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=341'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_031m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='http://www.kippel.net/blog/?attachment_id=342'><img width="150" height="84" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_032m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon portrait'>
+    <a href='http://www.kippel.net/blog/?attachment_id=343'><img width="84" height="150" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/02/20140126_033m.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+  </div></figure>
+</div>

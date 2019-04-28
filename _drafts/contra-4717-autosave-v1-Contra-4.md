@@ -1,0 +1,56 @@
+---
+id: 742
+title: Contra 4
+date: 2015-01-29T12:12:20-05:00
+author: Alan Verdugo
+layout: revision
+guid: http://www.kippel.net/blog/?p=742
+permalink: /?p=742
+---
+<figure id="attachment_737" aria-describedby="caption-attachment-737" style="width: 250px" class="wp-caption alignright"><img class="size-full wp-image-737" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/01/Contra4FinalBox.jpg" alt="Contra 4's box art" width="250" height="224" /><figcaption id="caption-attachment-737" class="wp-caption-text">Contra 4&#8217;s box art</figcaption></figure> 
+
+<p style="text-align: justify;">
+  <strong>Publisher:</strong> Konami.
+</p>
+
+<p style="text-align: justify;">
+  <strong>Development:</strong> WayForward.
+</p>
+
+<p style="text-align: justify;">
+  <strong>Console:</strong> Nintendo DS.
+</p>
+
+<p style="text-align: justify;">
+  <strong>Genre:</strong> Action/Shooter.
+</p>
+
+<p style="text-align: justify;">
+  <strong>Number of players:</strong> 1-2 local wireless.
+</p>
+
+<p style="text-align: justify;">
+  <strong>Launch year:</strong> 2007.
+</p>
+
+* * *
+
+<p style="text-align: justify;">
+      These days, good hardcore action games are few and far between. <em>Contra 4</em> is one of those rare gems, taking all the good aspects from the past games (specially <em>Contra III: The alien wars</em>) and improving them. The DS library is full of fun games, but many of them are slow-paced, like RPGs and touch-based games. This is why it is so refreshing to still see old school 2D side-scrollers, like <em>Contra 4</em>, the <em>Megaman Zero Collection</em> and the <em>New Super Mario Bros</em>.
+</p>
+
+<p style="text-align: justify;">
+      In the same way, hardcore games like <em>Contra</em> and the <em>Souls</em> series are the exception rather than the norm in this era. New generations of gamers are not very used to difficult games and this has resulted in some misleading bad reviews due to a &#8220;ridiculous difficulty&#8221;. Do not be fooled by this, <em>Contra</em> is supposed to be this hard, it is part of its charm. <em>Contra 4</em> includes an easy mode which is just that: easy. The normal mode can be considered to be hard to today&#8217;s standards and the hard mode is absolutely brutal, but that invites you to get a friend to help you in multiplayer and challenges you to hone your skills enough to finish it alone. At the end of the day, the satisfaction you get after achieving this will get you going until you master the game, and you will enjoy every second of it.
+</p>
+
+<p style="text-align: justify;">
+      There is no option to change the button mapping but, honestly, that is not needed. The controls for the <em>Contra</em> series achieved perfection a long time ago and thankfully not much has changed. The game uses both screens beautifully. With the X button, the player shoots an upward grappling hook to move to the upper screen rapidly. The use of both screens also allows more multiplayer strategies while dealing with bosses or parallel paths. However, this also means even bigger bosses and that enemies will approach from every angle and shoot at you from the other screen as well. As an heritage from the previous <em>Contra</em> games, the &#8220;3D&#8221; tunnel stages and bike-riding segments also make a glorious return.
+</p>
+
+<p style="text-align: justify;">
+      Once you finish the game the first time, you will unlock the Challenge mode, in which you will face different short challenges like killing a high number of enemies in a short period of time, surviving during part of the main missions without shooting or with a very limited amount of ammo. Completing challenges unlock extra content like digital comic books, extra characters and the old <em>Contra</em> and <em>Super Contra</em> games with perfect emulation (but no multiplayer, unfortunately). This alone makes the Challenge mode an incredibly satisfying and rewarding experience that other games should imitate.
+</p>
+
+<p style="text-align: justify;">
+      To summarize, new gamers will be grateful to be able to enjoy an almost forgotten sub-genre and old fans will be grateful to Konami for remaining true to its roots while enhancing the series. <em>Contra 4</em> is easily one of the best games for the DS, bringing many hours of action and a hope of more <em>Contra</em> games in the future.
+</p>
