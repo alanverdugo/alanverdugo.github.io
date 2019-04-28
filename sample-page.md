@@ -3,7 +3,8 @@ id: 2
 title: Sample Page
 date: 2013-01-20T21:50:45-05:00
 author: Alan Verdugo
-layout: page
+layout: default
+#layout: page
 guid: http://li106-124.members.linode.com/blog/?page_id=2
 ---
 This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
