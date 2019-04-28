@@ -1,6 +1,7 @@
 url: https://alanverdugo.github.io/
 name: Kippel
 description: No one can win against kippel.
+markdown: kramdown
 theme: jekyll-theme-hacker
 #remote_theme: ariestiyansyah/naringu
 
