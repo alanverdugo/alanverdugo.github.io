@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.0 -->
+<title>Analyzing movie rating data from an IMDB.com dataset using Python, Pandas and Matplotlib | Kippel</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Analyzing movie rating data from an IMDB.com dataset using Python, Pandas and Matplotlib" />
+<meta name="author" content="Alan Verdugo" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="    Since the dawn of cinema, the quality and enjoyment produced by motion pictures has been a complicated and controversial subject. An entire sub-industry has been created to review, criticize, recommend, analyze, categorize and rate movies. This, added to the subjective nature of each individual likes and dislikes has resulted in mixed experiences and expectations for the public. Some movies that are regarded as timeless classics by some people are seen as boring or even as bad movies by other people. The passing of time and the recent heavy use of special effects and CGI in movies also affect how the movies will be regarded in a few years, when those special effects look outdated." />
+<meta property="og:description" content="    Since the dawn of cinema, the quality and enjoyment produced by motion pictures has been a complicated and controversial subject. An entire sub-industry has been created to review, criticize, recommend, analyze, categorize and rate movies. This, added to the subjective nature of each individual likes and dislikes has resulted in mixed experiences and expectations for the public. Some movies that are regarded as timeless classics by some people are seen as boring or even as bad movies by other people. The passing of time and the recent heavy use of special effects and CGI in movies also affect how the movies will be regarded in a few years, when those special effects look outdated." />
+<link rel="canonical" href="http://localhost:4000/blog/movie-data" />
+<meta property="og:url" content="http://localhost:4000/blog/movie-data" />
+<meta property="og:site_name" content="Kippel" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-11-29T08:26:14-06:00" />
+<script type="application/ld+json">
+{"description":"    Since the dawn of cinema, the quality and enjoyment produced by motion pictures has been a complicated and controversial subject. An entire sub-industry has been created to review, criticize, recommend, analyze, categorize and rate movies. This, added to the subjective nature of each individual likes and dislikes has resulted in mixed experiences and expectations for the public. Some movies that are regarded as timeless classics by some people are seen as boring or even as bad movies by other people. The passing of time and the recent heavy use of special effects and CGI in movies also affect how the movies will be regarded in a few years, when those special effects look outdated.","author":{"@type":"Person","name":"Alan Verdugo"},"@type":"BlogPosting","url":"http://localhost:4000/blog/movie-data","headline":"Analyzing movie rating data from an IMDB.com dataset using Python, Pandas and Matplotlib","dateModified":"2017-11-29T08:26:14-06:00","datePublished":"2017-11-29T08:26:14-06:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/blog/movie-data"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Kippel" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/"></a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/sample-page.html">Sample Page</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Analyzing movie rating data from an IMDB.com dataset using Python, Pandas and Matplotlib</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2017-11-29T08:26:14-06:00" itemprop="datePublished">Nov 29, 2017
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Alan Verdugo</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p style="text-align: justify;">
+      Since the dawn of cinema, the quality and enjoyment produced by motion pictures has been a complicated and controversial subject. An entire sub-industry has been created to review, criticize, recommend, analyze, categorize and rate movies. This, added to the subjective nature of each individual likes and dislikes has resulted in mixed experiences and expectations for the public. Some movies that are regarded as timeless classics by some people are seen as boring or even as bad movies by other people. The passing of time and the recent heavy use of special effects and CGI in movies also affect how the movies will be regarded in a few years, when those special effects look outdated.
+</p>
+
+<p style="text-align: justify;">
+      However, we may find a general trend of increased satisfaction or dissatisfaction if we analyze a large number of movie ratings.
+</p>
+
+<p>    The code I wrote for this analysis is available in <a href="https://github.com/alanverdugo/movies_analysis" target="_blank" rel="noopener">my GitHub repository</a>.</p>
+
+<h2 style="text-align: justify;">
+  <a id="user-content-research-question" class="anchor" href="https://github.com/alanverdugo/movies_analysis#research-question" aria-hidden="true"></a>Research question
+</h2>
+
+<p style="text-align: justify;">
+      Since many critics refer to their favorite period as the best era that cinema has to offer (or alternatively, that the movie quality is in decline), we will attempt to answer the following question:
+</p>
+
+<p style="text-align: center;">
+  <strong>Has the perceived quality of movies increased or decreased over time?</strong>
+</p>
+
+<p style="text-align: justify;">
+      For any answer we may find, we will demonstrate and provide a reason behind it in the form of data and its visualizations.
+</p>
+
+<h2 style="text-align: justify;">
+  <a id="user-content-findings" class="anchor" href="https://github.com/alanverdugo/movies_analysis#findings" aria-hidden="true"></a>Findings
+</h2>
+
+<p style="text-align: justify;">
+      Using an <a href="http://www.imdb.com/" rel="nofollow">IMDB.com</a> dataset, I analyzed 45,844 movies and 26,024,290 ratings for said movies. The oldest movie in the dataset was launched in 1874 and the newest in 2017.
+</p>
+
+<p style="text-align: justify;">
+      I grouped the movies by launch year and calculated the average rating for the movies launched in every year. Doing this, I wanted to get an idea of the overall quality of the movies trough time.
+</p>
+
+<p style="text-align: justify;">
+      While the technical aspect of motion pictures have obviously advanced thanks to new technology, it was not clear if this also improved the overall quality of the movie. In the next image I present a chart of the relation between launch year and average rating for the movies launched in each year.
+</p>
+<figure id="attachment_2068" aria-describedby="caption-attachment-2068" style="width: 1916px" class="wp-caption aligncenter">
+
+[<img class="size-full wp-image-2068" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/11/movie_average_per_year.png" alt="Fig. 1 - Movie average rating per year." width="1916" height="916" />](http://li106-124.members.linode.com/blog/wp-content/uploads/2017/11/movie_average_per_year.png)<figcaption id="caption-attachment-2068" class="wp-caption-text">Fig. 1 &#8211; Movie average rating per year.</figcaption></figure>
+
+<p style="text-align: justify;">
+      Some interesting facts I got from this analysis:
+</p>
+
+<ul style="text-align: justify;">
+  <li>
+    The initial period (from 1874 to around 1915) is chaotic and experimental. A film could be under a minute long. There was little to no cinematic technique, the film was usually black and white and it was without sound.
+  </li>
+  <li>
+    In the 1920s, begins a process of normalization. Movies are more popular and attainable. The public seem to have learned what to expect from directors and actors by this time. The primary steps in the commercialization of sound cinema were taken in the mid-to late 1920s, this could have helped to this normalization.
+  </li>
+  <li>
+    2014 was a relatively disastrous year for cinema. The average rating for this year is 2.95. (The lowest since 1917, which is still part of the “experimental period”). The causes for this are beyond this analysis, but I will remind the reader that in 2014 we got movies like <em>Transformers: Age of extinction</em> and <em>Left behind</em> which <a href="https://www.rottentomatoes.com/m/left_behind_2014" target="_blank" rel="noopener">currently has a 1% score</a> in <a href="https://www.rottentomatoes.com/" rel="nofollow">rottentomatoes.com</a>
+  </li>
+  <li>
+    In an scale from 0 to 5, The average tends to be slightly above 3. There is no noticeable increment or decrement from this average in the last century. So, to answer the research question, we cannot said that the quality of cinema has increased nor decreased substantially.
+  </li>
+</ul>
+
+<h2 style="text-align: justify;">
+  <a id="user-content-references" class="anchor" href="https://github.com/alanverdugo/movies_analysis#references" aria-hidden="true"></a>References
+</h2>
+
+<li style="text-align: justify;">
+  History of film. (2017, November 26). In Wikipedia, The Free Encyclopedia. Retrieved 04:03, November 29, 2017, from <a href="https://en.wikipedia.org/w/index.php?title=History_of_film&amp;oldid=812220038" rel="nofollow">https://en.wikipedia.org/w/index.php?title=History_of_film&amp;oldid=812220038</a>
+</li>
+<li style="text-align: justify;">
+  Sound film. (2017, November 28). In Wikipedia, The Free Encyclopedia. Retrieved 04:04, November 29, 2017, from <a href="https://en.wikipedia.org/w/index.php?title=Sound_film&amp;oldid=812587250" rel="nofollow">https://en.wikipedia.org/w/index.php?title=Sound_film&amp;oldid=812587250</a>
+</li>
+
+  </div><a class="u-url" href="/blog/movie-data" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>No one can win against kippel.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.0 -->
+<title>How to change the resources of cloud servers using Tivoli Service Automation Manager | Kippel</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="How to change the resources of cloud servers using Tivoli Service Automation Manager" />
+<meta name="author" content="Alan Verdugo" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="In order to modify the resources of a Cloud server, you need to do the following: In this example we will add disk space to an AIX cloud server. Login into the Tivoli Service Automation Manager. Once you are logged in, in &#8220;My projects&#8221;, select &#8220;Manage Servers&#8230;&#8221; Search for the hostname of the desired server and select it. Click on the &#8220;Modify Server Resources&#8221; button. Click on the Edit button. In this case we will add more space to the disk. Simply specify the desired total amount and click OK. Once your request has been placed, it will be resolved after a few minutes. You can check its status on the &#8220;My Requests&#8221; part of the home page. You will also get an email notification. After that, a couple of commands need to be run in the target server in order to get the changes applied. Run: cfgmgr chvg -g rootvg With that, you should be able to see the new available space in the server with lsvg rootvg. In AIX, you can assign new space to a file system using the chfs command, like this: Change file system size:     chfs -a size=[-/+]N[GM] [/filesystem] G=Gigabytes M=Megabytes Example:     chfs -a size=+200M /dev/fslv02 Filesystem size changed to 1835008" />
+<meta property="og:description" content="In order to modify the resources of a Cloud server, you need to do the following: In this example we will add disk space to an AIX cloud server. Login into the Tivoli Service Automation Manager. Once you are logged in, in &#8220;My projects&#8221;, select &#8220;Manage Servers&#8230;&#8221; Search for the hostname of the desired server and select it. Click on the &#8220;Modify Server Resources&#8221; button. Click on the Edit button. In this case we will add more space to the disk. Simply specify the desired total amount and click OK. Once your request has been placed, it will be resolved after a few minutes. You can check its status on the &#8220;My Requests&#8221; part of the home page. You will also get an email notification. After that, a couple of commands need to be run in the target server in order to get the changes applied. Run: cfgmgr chvg -g rootvg With that, you should be able to see the new available space in the server with lsvg rootvg. In AIX, you can assign new space to a file system using the chfs command, like this: Change file system size:     chfs -a size=[-/+]N[GM] [/filesystem] G=Gigabytes M=Megabytes Example:     chfs -a size=+200M /dev/fslv02 Filesystem size changed to 1835008" />
+<link rel="canonical" href="http://localhost:4000/blog/resources-tsam" />
+<meta property="og:url" content="http://localhost:4000/blog/resources-tsam" />
+<meta property="og:site_name" content="Kippel" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2014-09-12T11:42:40-05:00" />
+<script type="application/ld+json">
+{"description":"In order to modify the resources of a Cloud server, you need to do the following: In this example we will add disk space to an AIX cloud server. Login into the Tivoli Service Automation Manager. Once you are logged in, in &#8220;My projects&#8221;, select &#8220;Manage Servers&#8230;&#8221; Search for the hostname of the desired server and select it. Click on the &#8220;Modify Server Resources&#8221; button. Click on the Edit button. In this case we will add more space to the disk. Simply specify the desired total amount and click OK. Once your request has been placed, it will be resolved after a few minutes. You can check its status on the &#8220;My Requests&#8221; part of the home page. You will also get an email notification. After that, a couple of commands need to be run in the target server in order to get the changes applied. Run: cfgmgr chvg -g rootvg With that, you should be able to see the new available space in the server with lsvg rootvg. In AIX, you can assign new space to a file system using the chfs command, like this: Change file system size:     chfs -a size=[-/+]N[GM] [/filesystem] G=Gigabytes M=Megabytes Example:     chfs -a size=+200M /dev/fslv02 Filesystem size changed to 1835008","author":{"@type":"Person","name":"Alan Verdugo"},"@type":"BlogPosting","url":"http://localhost:4000/blog/resources-tsam","headline":"How to change the resources of cloud servers using Tivoli Service Automation Manager","dateModified":"2014-09-12T11:42:40-05:00","datePublished":"2014-09-12T11:42:40-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/blog/resources-tsam"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Kippel" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/"></a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/sample-page.html">Sample Page</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">How to change the resources of cloud servers using Tivoli Service Automation Manager</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2014-09-12T11:42:40-05:00" itemprop="datePublished">Sep 12, 2014
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Alan Verdugo</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <div class="entryContentContainer blogsWrapText">
+  <p dir="ltr">
+    In order to modify the resources of a Cloud server, you need to do the following:
+  </p>
+  
+  <p dir="ltr">
+    In this example we will add disk space to an AIX cloud server.
+  </p>
+  
+  <p dir="ltr">
+    Login into the Tivoli Service Automation Manager.
+  </p>
+  
+  <p dir="ltr">
+    Once you are logged in, in &#8220;My projects&#8221;, select &#8220;Manage Servers&#8230;&#8221;<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/1.png"><img class="aligncenter size-full wp-image-619" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/1.png" alt="1" width="411" height="388" /></a>
+  </p>
+  
+  <p dir="ltr">
+    Search for the hostname of the desired server and select it.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/2.png"><img class="aligncenter wp-image-620 size-full" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/2.png" alt="2" width="620" height="181" /></a>
+  </p>
+  
+  <p dir="ltr">
+    Click on the &#8220;Modify Server Resources&#8221; button.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/3.png"><img class="aligncenter wp-image-621 size-full" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/3.png" alt="3" width="624" height="190" /></a>
+  </p>
+  
+  <p dir="ltr">
+    Click on the Edit button.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/4.png"><img class="aligncenter wp-image-622 size-full" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/4.png" alt="4" width="488" height="438" /></a>
+  </p>
+  
+  <p dir="ltr">
+    In this case we will add more space to the disk. Simply specify the desired total amount and click OK.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/5.png"><img class="aligncenter size-full wp-image-623" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/5.png" alt="5" width="501" height="477" /></a>
+  </p>
+  
+  <p dir="ltr">
+    Once your request has been placed, it will be resolved after a few minutes. You can check its status on the &#8220;My Requests&#8221; part of the home page. You will also get an email notification.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/6.png"><img class="aligncenter wp-image-624 size-full" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/09/6.png" alt="6" width="407" height="337" /></a>
+  </p>
+  
+  <p dir="ltr">
+    After that, a couple of commands need to be run in the target server in order to get the changes applied.
+  </p>
+  
+  <p dir="ltr">
+    Run:
+  </p>
+  
+  <p dir="ltr">
+    <strong>cfgmgr<br /> chvg -g rootvg</strong>
+  </p>
+  
+  <p dir="ltr">
+    With that, you should be able to see the new available space in the server with <strong>lsvg rootvg</strong>.
+  </p>
+  
+  <p dir="ltr">
+    In AIX, you can assign new space to a file system using the <strong>chfs</strong> command, like this:
+  </p>
+  
+  <p dir="ltr">
+    Change file system size:<br /> <strong>    chfs -a size=[-/+]N[GM] [/filesystem]</strong><br /> G=Gigabytes<br /> M=Megabytes
+  </p>
+  
+  <p dir="ltr">
+    Example:
+  </p>
+  
+  <p dir="ltr">
+    <strong>    chfs -a size=+200M /dev/fslv02</strong><br /> Filesystem size changed to 1835008
+  </p>
+</div>
+
+  </div><a class="u-url" href="/blog/resources-tsam" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>No one can win against kippel.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

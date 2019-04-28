@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.0 -->
+<title>Python examples | Kippel</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Python examples" />
+<meta name="author" content="Alan Verdugo" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="    I had a lot of fun doing Python exercises for an online training course I took. Here are several of them that could be useful if somebody else is learning Python (or programming). Double click on the code to get the code in plain text. #!/usr/bin/env python &#39;&#39;&#39; This program asks the user for text, removes any vowels on it and prints the &quot;unvoweled&quot; text to the user. (&quot;y&quot;/&quot;Y&quot; is not considered a vowel because that is just silly). &#39;&#39;&#39; vowels=[&quot;a&quot;,&quot;e&quot;,&quot;i&quot;,&quot;o&quot;,&quot;u&quot;,&quot;A&quot;,&quot;E&quot;,&quot;I&quot;,&quot;O&quot;,&quot;U&quot;,] text = raw_input(&quot;Enter text, I will remove the vowels: &quot;) text_list=[] position=0 for char in str(text): text_list.append(char) if char in vowels: text_list[position]=&quot;&quot; position=position+1 print &quot;&quot;.join(text_list) #!/usr/bin/env python &#39;&#39;&#39; This program will censor a given word in a given text. E.g. if the user types &quot;This is my text!&quot; and the word &quot;text&quot; is to be censored, the program will return &quot;This is my ****!&quot; This program is easy, but you need to make sure to censor the whole word in the text, and not just censor the characters that appear in the word. This is because there probably will be occurrences of those characters in other words that should not be censored. So you need to find the whole word before doing any censoring. &#39;&#39;&#39; text = raw_input(&quot;Enter the text to censor: &quot;) word = raw_input(&quot;Enter the word to censor: &quot;) asterisks=&quot;&quot; attemp_word=[] word_list=&quot;&quot;.join(word) counter=0 for char in str(text): for char2 in word: if char == word_list[counter]: attemp_word.append(char) asterisks=asterisks+&quot;*&quot; counter=counter+1 if &quot;&quot;.join(attemp_word)==word and counter == len(word): print text.replace(word,asterisks) asterisks=&quot;&quot; attemp_word=[] counter=0 #!/usr/bin/env python # This program uses list comprehension to print the cubes of the numbers 1 to 10 that are evenly divisible by 4. cubes_by_four=[x*x*x for x in range(1,11) if ((x*x*x)%4 == 0)] print cubes_by_four #!/usr/bin/env python # This program uses list comprehension to print the squares of the numbers 1 to 10 that are even. even_squares=[x*x for x in range(1,12) if (x%2 == 0)] print even_squares #!/usr/bin/env python &#39;&#39;&#39; Use list slicing to print out every odd index element of my_list (numbers from 1 to 10) from start to finish. Omit the start and end index. You only need to specify a stride. Remember, the syntax for list slicing is [start:end:stride] Since you&#39;re using the entire list, you should leave out the start and end indices (but leave in the colons!) and give the slice a stride that will select every other (that is, odd) element. &#39;&#39;&#39; my_list=range(1,11) # List of number from 1 to 10. print my_list[::2] #!/usr/bin/env python &#39;&#39;&#39; This one takes a list of integers as input and returns the product of all of the elements in the list. For example: product([4, 5, 5]) should return 100 (because 4 * 5 * 5 is 100). For now, we will not worry about the list being empty. &#39;&#39;&#39; my_numbers = raw_input(&quot;Enter the list of numbers: &quot;) # We start with the result at 1 in order to avoid a multiplication by 0. result=1 for my_number in my_numbers: result = result*int(my_number) print &quot;The product of your numbers is:&quot;,result #!/usr/bin/env python &#39;&#39;&#39; This one takes in a list named my_numbers, removes all odd numbers in the list, and returns the result. For example, [1,2,3] should return [2]. This will not directly modify the list it is given as input; instead, it will return a new list with only the even numbers. &#39;&#39;&#39; my_numbers = raw_input(&quot;Enter the list of numbers: &quot;) new_list=[] for my_number in my_numbers: if int(my_number)%2 == 0: new_list.append(my_number) print new_list #!/usr/bin/env python # These are just a couple of examples of for loops. # Place values into a list named &quot;items&quot; items = [&quot;Alpha&quot;, &quot;Beta&quot;, &quot;Gamma&quot;, &quot;Delta&quot;, &quot;Epsilon&quot;, &quot;Omega&quot;] # Lets do this in functions since were are so fancy... def printItems(items): # Iterates over list, running statements for each item in the list count=0 for item in items: count+=1 # Note: commas in print statements separate the items by a single space print &quot;This is item #%s:&quot; % count,item def printWithFormatting(items): # Iterates over list, running statements for each item in the list print &quot;Now lets do it with string formatting!&quot; count=0 for item in items: count+=1 # Note: commas in print statements separate the items by a single space print &quot;This is item #{0}:&quot;.format(count),format(item) # Functions are called printItems(items) printWithFormatting(items) #!/usr/bin/env python # This is just an example of calling OS functions from Python. import subprocess subprocess.call(&quot;ls -l&quot;, shell=True) #!/usr/bin/env python &#39;&#39;&#39; This one takes in a list and removes elements of the list that are the same. For example, if the user inputs ([1,1,2,2]), the program should return [1,2]. We will not remove every occurrence, since you need to keep a single occurrence of a number. The order in which you present your output does not matter. So returning [1,2,3] is the same as returning [3,1,2]. Do not modify the list you take as input! Instead, return a new list. &#39;&#39;&#39; text = raw_input(&quot;Enter the text to remove duplicates from: &quot;) &#39;&#39;&#39; We convert to a set and back into a list. Sets are collections of unique items. So converting our list into a set will automatically remove duplicates. The drawback is that, since the sets are unordered, the order will be lost. &#39;&#39;&#39; my_set = set(text) result = list(my_set) print result #!/usr/bin/env python # This program reverses strings. (E.g. &quot;radar&quot; will return &quot;radar&quot;) list1=[] current_position=0 text = raw_input(&quot;Enter your string to be reversed: &quot;) for n in str(text): list1.append(&quot;&quot;) current_position = len(text) for c in text: list1[current_position-1]=c current_position=current_position-1 print &quot;Your reversed string:&quot;,&quot;&quot;.join(list1) #!/usr/bin/env python # This program uses a dictionary to score Scrabble words. (I have never played scrabble, so I am not sure if these are the correct rules but I reckon this is the basic algorithm) score= {&quot;a&quot;:1,&quot;b&quot;:3,&quot;c&quot;:3,&quot;d&quot;:2,&quot;e&quot;:1,&quot;f&quot;:4,&quot;g&quot;:2,&quot;h&quot;:4,&quot;i&quot;:1,&quot;j&quot;:8,&quot;k&quot;:5,&quot;l&quot;:1,&quot;m&quot;:3, &quot;n&quot;:1,&quot;o&quot;:1,&quot;p&quot;:3,&quot;q&quot;:10,&quot;r&quot;:1,&quot;s&quot;:1,&quot;t&quot;:1,&quot;u&quot;:1,&quot;v&quot;:4,&quot;x&quot;:8,&quot;y&quot;:4,&quot;z&quot;:10} word = raw_input(&quot;Enter text, I will score it: &quot;) word=word.lower() sum=0 for char in str(word): if char in score: sum=sum+score[char] print &quot;Your score:&quot;,sum" />
+<meta property="og:description" content="    I had a lot of fun doing Python exercises for an online training course I took. Here are several of them that could be useful if somebody else is learning Python (or programming). Double click on the code to get the code in plain text. #!/usr/bin/env python &#39;&#39;&#39; This program asks the user for text, removes any vowels on it and prints the &quot;unvoweled&quot; text to the user. (&quot;y&quot;/&quot;Y&quot; is not considered a vowel because that is just silly). &#39;&#39;&#39; vowels=[&quot;a&quot;,&quot;e&quot;,&quot;i&quot;,&quot;o&quot;,&quot;u&quot;,&quot;A&quot;,&quot;E&quot;,&quot;I&quot;,&quot;O&quot;,&quot;U&quot;,] text = raw_input(&quot;Enter text, I will remove the vowels: &quot;) text_list=[] position=0 for char in str(text): text_list.append(char) if char in vowels: text_list[position]=&quot;&quot; position=position+1 print &quot;&quot;.join(text_list) #!/usr/bin/env python &#39;&#39;&#39; This program will censor a given word in a given text. E.g. if the user types &quot;This is my text!&quot; and the word &quot;text&quot; is to be censored, the program will return &quot;This is my ****!&quot; This program is easy, but you need to make sure to censor the whole word in the text, and not just censor the characters that appear in the word. This is because there probably will be occurrences of those characters in other words that should not be censored. So you need to find the whole word before doing any censoring. &#39;&#39;&#39; text = raw_input(&quot;Enter the text to censor: &quot;) word = raw_input(&quot;Enter the word to censor: &quot;) asterisks=&quot;&quot; attemp_word=[] word_list=&quot;&quot;.join(word) counter=0 for char in str(text): for char2 in word: if char == word_list[counter]: attemp_word.append(char) asterisks=asterisks+&quot;*&quot; counter=counter+1 if &quot;&quot;.join(attemp_word)==word and counter == len(word): print text.replace(word,asterisks) asterisks=&quot;&quot; attemp_word=[] counter=0 #!/usr/bin/env python # This program uses list comprehension to print the cubes of the numbers 1 to 10 that are evenly divisible by 4. cubes_by_four=[x*x*x for x in range(1,11) if ((x*x*x)%4 == 0)] print cubes_by_four #!/usr/bin/env python # This program uses list comprehension to print the squares of the numbers 1 to 10 that are even. even_squares=[x*x for x in range(1,12) if (x%2 == 0)] print even_squares #!/usr/bin/env python &#39;&#39;&#39; Use list slicing to print out every odd index element of my_list (numbers from 1 to 10) from start to finish. Omit the start and end index. You only need to specify a stride. Remember, the syntax for list slicing is [start:end:stride] Since you&#39;re using the entire list, you should leave out the start and end indices (but leave in the colons!) and give the slice a stride that will select every other (that is, odd) element. &#39;&#39;&#39; my_list=range(1,11) # List of number from 1 to 10. print my_list[::2] #!/usr/bin/env python &#39;&#39;&#39; This one takes a list of integers as input and returns the product of all of the elements in the list. For example: product([4, 5, 5]) should return 100 (because 4 * 5 * 5 is 100). For now, we will not worry about the list being empty. &#39;&#39;&#39; my_numbers = raw_input(&quot;Enter the list of numbers: &quot;) # We start with the result at 1 in order to avoid a multiplication by 0. result=1 for my_number in my_numbers: result = result*int(my_number) print &quot;The product of your numbers is:&quot;,result #!/usr/bin/env python &#39;&#39;&#39; This one takes in a list named my_numbers, removes all odd numbers in the list, and returns the result. For example, [1,2,3] should return [2]. This will not directly modify the list it is given as input; instead, it will return a new list with only the even numbers. &#39;&#39;&#39; my_numbers = raw_input(&quot;Enter the list of numbers: &quot;) new_list=[] for my_number in my_numbers: if int(my_number)%2 == 0: new_list.append(my_number) print new_list #!/usr/bin/env python # These are just a couple of examples of for loops. # Place values into a list named &quot;items&quot; items = [&quot;Alpha&quot;, &quot;Beta&quot;, &quot;Gamma&quot;, &quot;Delta&quot;, &quot;Epsilon&quot;, &quot;Omega&quot;] # Lets do this in functions since were are so fancy... def printItems(items): # Iterates over list, running statements for each item in the list count=0 for item in items: count+=1 # Note: commas in print statements separate the items by a single space print &quot;This is item #%s:&quot; % count,item def printWithFormatting(items): # Iterates over list, running statements for each item in the list print &quot;Now lets do it with string formatting!&quot; count=0 for item in items: count+=1 # Note: commas in print statements separate the items by a single space print &quot;This is item #{0}:&quot;.format(count),format(item) # Functions are called printItems(items) printWithFormatting(items) #!/usr/bin/env python # This is just an example of calling OS functions from Python. import subprocess subprocess.call(&quot;ls -l&quot;, shell=True) #!/usr/bin/env python &#39;&#39;&#39; This one takes in a list and removes elements of the list that are the same. For example, if the user inputs ([1,1,2,2]), the program should return [1,2]. We will not remove every occurrence, since you need to keep a single occurrence of a number. The order in which you present your output does not matter. So returning [1,2,3] is the same as returning [3,1,2]. Do not modify the list you take as input! Instead, return a new list. &#39;&#39;&#39; text = raw_input(&quot;Enter the text to remove duplicates from: &quot;) &#39;&#39;&#39; We convert to a set and back into a list. Sets are collections of unique items. So converting our list into a set will automatically remove duplicates. The drawback is that, since the sets are unordered, the order will be lost. &#39;&#39;&#39; my_set = set(text) result = list(my_set) print result #!/usr/bin/env python # This program reverses strings. (E.g. &quot;radar&quot; will return &quot;radar&quot;) list1=[] current_position=0 text = raw_input(&quot;Enter your string to be reversed: &quot;) for n in str(text): list1.append(&quot;&quot;) current_position = len(text) for c in text: list1[current_position-1]=c current_position=current_position-1 print &quot;Your reversed string:&quot;,&quot;&quot;.join(list1) #!/usr/bin/env python # This program uses a dictionary to score Scrabble words. (I have never played scrabble, so I am not sure if these are the correct rules but I reckon this is the basic algorithm) score= {&quot;a&quot;:1,&quot;b&quot;:3,&quot;c&quot;:3,&quot;d&quot;:2,&quot;e&quot;:1,&quot;f&quot;:4,&quot;g&quot;:2,&quot;h&quot;:4,&quot;i&quot;:1,&quot;j&quot;:8,&quot;k&quot;:5,&quot;l&quot;:1,&quot;m&quot;:3, &quot;n&quot;:1,&quot;o&quot;:1,&quot;p&quot;:3,&quot;q&quot;:10,&quot;r&quot;:1,&quot;s&quot;:1,&quot;t&quot;:1,&quot;u&quot;:1,&quot;v&quot;:4,&quot;x&quot;:8,&quot;y&quot;:4,&quot;z&quot;:10} word = raw_input(&quot;Enter text, I will score it: &quot;) word=word.lower() sum=0 for char in str(word): if char in score: sum=sum+score[char] print &quot;Your score:&quot;,sum" />
+<link rel="canonical" href="http://localhost:4000/blog/python-examples" />
+<meta property="og:url" content="http://localhost:4000/blog/python-examples" />
+<meta property="og:site_name" content="Kippel" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2014-08-28T19:36:02-05:00" />
+<script type="application/ld+json">
+{"description":"    I had a lot of fun doing Python exercises for an online training course I took. Here are several of them that could be useful if somebody else is learning Python (or programming). Double click on the code to get the code in plain text. #!/usr/bin/env python &#39;&#39;&#39; This program asks the user for text, removes any vowels on it and prints the &quot;unvoweled&quot; text to the user. (&quot;y&quot;/&quot;Y&quot; is not considered a vowel because that is just silly). &#39;&#39;&#39; vowels=[&quot;a&quot;,&quot;e&quot;,&quot;i&quot;,&quot;o&quot;,&quot;u&quot;,&quot;A&quot;,&quot;E&quot;,&quot;I&quot;,&quot;O&quot;,&quot;U&quot;,] text = raw_input(&quot;Enter text, I will remove the vowels: &quot;) text_list=[] position=0 for char in str(text): text_list.append(char) if char in vowels: text_list[position]=&quot;&quot; position=position+1 print &quot;&quot;.join(text_list) #!/usr/bin/env python &#39;&#39;&#39; This program will censor a given word in a given text. E.g. if the user types &quot;This is my text!&quot; and the word &quot;text&quot; is to be censored, the program will return &quot;This is my ****!&quot; This program is easy, but you need to make sure to censor the whole word in the text, and not just censor the characters that appear in the word. This is because there probably will be occurrences of those characters in other words that should not be censored. So you need to find the whole word before doing any censoring. &#39;&#39;&#39; text = raw_input(&quot;Enter the text to censor: &quot;) word = raw_input(&quot;Enter the word to censor: &quot;) asterisks=&quot;&quot; attemp_word=[] word_list=&quot;&quot;.join(word) counter=0 for char in str(text): for char2 in word: if char == word_list[counter]: attemp_word.append(char) asterisks=asterisks+&quot;*&quot; counter=counter+1 if &quot;&quot;.join(attemp_word)==word and counter == len(word): print text.replace(word,asterisks) asterisks=&quot;&quot; attemp_word=[] counter=0 #!/usr/bin/env python # This program uses list comprehension to print the cubes of the numbers 1 to 10 that are evenly divisible by 4. cubes_by_four=[x*x*x for x in range(1,11) if ((x*x*x)%4 == 0)] print cubes_by_four #!/usr/bin/env python # This program uses list comprehension to print the squares of the numbers 1 to 10 that are even. even_squares=[x*x for x in range(1,12) if (x%2 == 0)] print even_squares #!/usr/bin/env python &#39;&#39;&#39; Use list slicing to print out every odd index element of my_list (numbers from 1 to 10) from start to finish. Omit the start and end index. You only need to specify a stride. Remember, the syntax for list slicing is [start:end:stride] Since you&#39;re using the entire list, you should leave out the start and end indices (but leave in the colons!) and give the slice a stride that will select every other (that is, odd) element. &#39;&#39;&#39; my_list=range(1,11) # List of number from 1 to 10. print my_list[::2] #!/usr/bin/env python &#39;&#39;&#39; This one takes a list of integers as input and returns the product of all of the elements in the list. For example: product([4, 5, 5]) should return 100 (because 4 * 5 * 5 is 100). For now, we will not worry about the list being empty. &#39;&#39;&#39; my_numbers = raw_input(&quot;Enter the list of numbers: &quot;) # We start with the result at 1 in order to avoid a multiplication by 0. result=1 for my_number in my_numbers: result = result*int(my_number) print &quot;The product of your numbers is:&quot;,result #!/usr/bin/env python &#39;&#39;&#39; This one takes in a list named my_numbers, removes all odd numbers in the list, and returns the result. For example, [1,2,3] should return [2]. This will not directly modify the list it is given as input; instead, it will return a new list with only the even numbers. &#39;&#39;&#39; my_numbers = raw_input(&quot;Enter the list of numbers: &quot;) new_list=[] for my_number in my_numbers: if int(my_number)%2 == 0: new_list.append(my_number) print new_list #!/usr/bin/env python # These are just a couple of examples of for loops. # Place values into a list named &quot;items&quot; items = [&quot;Alpha&quot;, &quot;Beta&quot;, &quot;Gamma&quot;, &quot;Delta&quot;, &quot;Epsilon&quot;, &quot;Omega&quot;] # Lets do this in functions since were are so fancy... def printItems(items): # Iterates over list, running statements for each item in the list count=0 for item in items: count+=1 # Note: commas in print statements separate the items by a single space print &quot;This is item #%s:&quot; % count,item def printWithFormatting(items): # Iterates over list, running statements for each item in the list print &quot;Now lets do it with string formatting!&quot; count=0 for item in items: count+=1 # Note: commas in print statements separate the items by a single space print &quot;This is item #{0}:&quot;.format(count),format(item) # Functions are called printItems(items) printWithFormatting(items) #!/usr/bin/env python # This is just an example of calling OS functions from Python. import subprocess subprocess.call(&quot;ls -l&quot;, shell=True) #!/usr/bin/env python &#39;&#39;&#39; This one takes in a list and removes elements of the list that are the same. For example, if the user inputs ([1,1,2,2]), the program should return [1,2]. We will not remove every occurrence, since you need to keep a single occurrence of a number. The order in which you present your output does not matter. So returning [1,2,3] is the same as returning [3,1,2]. Do not modify the list you take as input! Instead, return a new list. &#39;&#39;&#39; text = raw_input(&quot;Enter the text to remove duplicates from: &quot;) &#39;&#39;&#39; We convert to a set and back into a list. Sets are collections of unique items. So converting our list into a set will automatically remove duplicates. The drawback is that, since the sets are unordered, the order will be lost. &#39;&#39;&#39; my_set = set(text) result = list(my_set) print result #!/usr/bin/env python # This program reverses strings. (E.g. &quot;radar&quot; will return &quot;radar&quot;) list1=[] current_position=0 text = raw_input(&quot;Enter your string to be reversed: &quot;) for n in str(text): list1.append(&quot;&quot;) current_position = len(text) for c in text: list1[current_position-1]=c current_position=current_position-1 print &quot;Your reversed string:&quot;,&quot;&quot;.join(list1) #!/usr/bin/env python # This program uses a dictionary to score Scrabble words. (I have never played scrabble, so I am not sure if these are the correct rules but I reckon this is the basic algorithm) score= {&quot;a&quot;:1,&quot;b&quot;:3,&quot;c&quot;:3,&quot;d&quot;:2,&quot;e&quot;:1,&quot;f&quot;:4,&quot;g&quot;:2,&quot;h&quot;:4,&quot;i&quot;:1,&quot;j&quot;:8,&quot;k&quot;:5,&quot;l&quot;:1,&quot;m&quot;:3, &quot;n&quot;:1,&quot;o&quot;:1,&quot;p&quot;:3,&quot;q&quot;:10,&quot;r&quot;:1,&quot;s&quot;:1,&quot;t&quot;:1,&quot;u&quot;:1,&quot;v&quot;:4,&quot;x&quot;:8,&quot;y&quot;:4,&quot;z&quot;:10} word = raw_input(&quot;Enter text, I will score it: &quot;) word=word.lower() sum=0 for char in str(word): if char in score: sum=sum+score[char] print &quot;Your score:&quot;,sum","author":{"@type":"Person","name":"Alan Verdugo"},"@type":"BlogPosting","url":"http://localhost:4000/blog/python-examples","headline":"Python examples","dateModified":"2014-08-28T19:36:02-05:00","datePublished":"2014-08-28T19:36:02-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/blog/python-examples"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Kippel" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/"></a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/sample-page.html">Sample Page</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Python examples</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2014-08-28T19:36:02-05:00" itemprop="datePublished">Aug 28, 2014
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">Alan Verdugo</span></span></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p style="text-align: justify;">
+      I had a lot of fun doing Python exercises for an online training course I took. Here are several of them that could be useful if somebody else is learning Python (or programming). Double click on the code to get the code in plain text.
+</p>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 striped:false wrap:true lang:python decode:true" title="Disemvoweler">#!/usr/bin/env python
+'''
+    This program asks the user for text, removes any vowels on it and prints the "unvoweled" text to the user.
+    ("y"/"Y" is not considered a vowel because that is just silly).
+'''
+vowels=["a","e","i","o","u","A","E","I","O","U",]
+text = raw_input("Enter text, I will remove the vowels: ")
+text_list=[]
+position=0
+for char in str(text):
+    text_list.append(char)
+    if char in vowels:
+        text_list[position]=""
+    position=position+1
+print "".join(text_list)</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 show-lang:1 striped:false wrap:true lang:python decode:true" title="Censorer">#!/usr/bin/env python
+'''
+    This program will censor a given word in a given text. E.g. if the user types "This is my text!" and the word "text" is to be censored, the program will return "This is my ****!"
+    This program is easy, but you need to make sure to censor the whole word in the text, and not just censor the characters that appear in the word.
+    This is because there probably will be occurrences of those characters in other words that should not be censored. So you need to find the whole word before doing any censoring.
+'''
+text = raw_input("Enter the text to censor: ")
+word = raw_input("Enter the word to censor: ")
+asterisks=""
+attemp_word=[]
+word_list="".join(word)
+counter=0
+for char in str(text):
+    for char2 in word:
+        if char == word_list[counter]:
+            attemp_word.append(char)
+            asterisks=asterisks+"*"
+            counter=counter+1
+            if "".join(attemp_word)==word and counter == len(word):
+                print text.replace(word,asterisks)
+                asterisks=""
+                attemp_word=[]
+                counter=0</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 show-lang:1 striped:false wrap:true lang:python decode:true" title="List comprehension">#!/usr/bin/env python
+# This program uses list comprehension to print the cubes of the numbers 1 to 10 that are evenly divisible by 4.
+cubes_by_four=[x*x*x for x in range(1,11) if ((x*x*x)%4 == 0)]
+print cubes_by_four</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 show-lang:2 striped:false wrap:true lang:python decode:true" title="Squares">#!/usr/bin/env python
+# This program uses list comprehension to print the squares of the numbers 1 to 10 that are even.
+even_squares=[x*x for x in range(1,12) if (x%2 == 0)]
+print even_squares</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 show-lang:2 striped:false wrap:true lang:python decode:true" title="Slicing">#!/usr/bin/env python
+'''
+    Use list slicing to print out every odd index element of my_list (numbers from 1 to 10) from start to finish.
+Omit the start and end index. You only need to specify a stride.
+
+    Remember, the syntax for list slicing is [start:end:stride]
+
+    Since you're using the entire list, you should leave out the start and end indices (but leave in the colons!)
+and give the slice a stride that will select every other (that is, odd) element.
+'''
+my_list=range(1,11) # List of number from 1 to 10.
+print my_list[::2]</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 show-lang:2 striped:false wrap:true lang:python decode:true">#!/usr/bin/env python
+'''
+    This one takes a list of integers as input and returns the product of all of the elements in the list.
+
+    For example: product([4, 5, 5]) should return 100 (because 4 * 5 * 5 is 100).
+
+    For now, we will not worry about the list being empty.
+'''
+my_numbers = raw_input("Enter the list of numbers: ")
+# We start with the result at 1 in order to avoid a multiplication by 0.
+result=1
+for my_number in my_numbers:
+    result = result*int(my_number)
+print "The product of your numbers is:",result</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 striped:false wrap:true lang:python decode:true" title="Odd removers">#!/usr/bin/env python
+'''
+    This one takes in a list named my_numbers, removes all odd numbers in the list, and returns the result.
+    For example, [1,2,3] should return [2].
+    This will not directly modify the list it is given as input; instead, it will return a new list with only the even numbers.
+'''
+my_numbers = raw_input("Enter the list of numbers: ")
+new_list=[]
+for my_number in my_numbers:
+    if int(my_number)%2 == 0:
+        new_list.append(my_number)
+print new_list</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 striped:false wrap:true lang:python decode:true" title="Iterator">#!/usr/bin/env python
+# These are just a couple of examples of for loops.
+# Place values into a list named "items"
+items = ["Alpha", "Beta", "Gamma", "Delta", "Epsilon", "Omega"]
+
+# Lets do this in functions since were are so fancy...
+def printItems(items):
+    # Iterates over list, running statements for each item in the list
+    count=0
+    for item in items:
+        count+=1
+        # Note: commas in print statements separate the items by a single space
+        print "This is item #%s:" % count,item
+
+def printWithFormatting(items):
+    # Iterates over list, running statements for each item in the list
+    print "Now lets do it with string formatting!"
+    count=0
+    for item in items:
+        count+=1
+        # Note: commas in print statements separate the items by a single space
+        print "This is item #{0}:".format(count),format(item)
+
+# Functions are called
+printItems(items)
+printWithFormatting(items)</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 striped:false wrap:true lang:python decode:true" title="Subprocess">#!/usr/bin/env python
+# This is just an example of calling OS functions from Python.
+import subprocess
+subprocess.call("ls -l", shell=True)</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 striped:false wrap:true lang:python decode:true">#!/usr/bin/env python
+'''
+    This one takes in a list and removes elements of the list that are the same.
+    For example, if the user inputs ([1,1,2,2]), the program should return [1,2].
+    We will not remove every occurrence, since you need to keep a single occurrence of a number.
+    The order in which you present your output does not matter. So returning [1,2,3] is the same as returning [3,1,2].
+    Do not modify the list you take as input! Instead, return a new list.
+'''
+text = raw_input("Enter the text to remove duplicates from: ")
+
+'''
+    We convert to a set and back into a list. Sets are collections of unique items. So converting our list into a set will automatically remove duplicates. The drawback is that, since the sets are unordered, the order will be lost.
+'''
+my_set = set(text)
+result = list(my_set)
+print result</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 striped:false wrap:true lang:python decode:true" title="Reverser">#!/usr/bin/env python
+# This program reverses strings. (E.g. "radar" will return "radar")
+list1=[]
+current_position=0
+text = raw_input("Enter your string to be reversed: ")
+for n in str(text):
+    list1.append("")
+current_position = len(text)
+for c in text:
+    list1[current_position-1]=c
+    current_position=current_position-1
+print "Your reversed string:","".join(list1)</pre>
+
+<pre class="theme:terminal font:ubuntu-mono font-size-enable:false toolbar:2 striped:false wrap:true lang:python decode:true " title="Scrabble">#!/usr/bin/env python
+# This program uses a dictionary to score Scrabble words. (I have never played scrabble, so I am not sure if these are the correct rules but I reckon this is the basic algorithm)
+score= {"a":1,"b":3,"c":3,"d":2,"e":1,"f":4,"g":2,"h":4,"i":1,"j":8,"k":5,"l":1,"m":3,
+"n":1,"o":1,"p":3,"q":10,"r":1,"s":1,"t":1,"u":1,"v":4,"x":8,"y":4,"z":10}
+
+word = raw_input("Enter text, I will score it: ")
+word=word.lower()
+sum=0
+
+for char in str(word):
+    if char in score:
+        sum=sum+score[char]
+print "Your score:",sum</pre>
+
+  </div><a class="u-url" href="/blog/python-examples" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>No one can win against kippel.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
