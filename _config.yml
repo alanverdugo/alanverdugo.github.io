@@ -3,8 +3,6 @@ name: Kippel
 description: No one can win against kippel.
 theme: jekyll-theme-hacker
 #remote_theme: ariestiyansyah/naringu
-paginate:     5
 
 plugins:
-  - jekyll-paginate
   - jekyll-remote-theme
