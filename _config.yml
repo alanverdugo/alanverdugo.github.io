@@ -3,7 +3,8 @@ name: Kippel
 description: No one can win against kippel.
 markdown: kramdown
 #theme: minima
-remote_theme: ariestiyansyah/naringu
+#remote_theme: ariestiyansyah/naringu
+remote_theme: streetturtle/jekyll-clean-dark
 
 plugins:
   - jekyll-remote-theme
