@@ -30,7 +30,7 @@ Number of players: **1-8.**
 
 &nbsp;
 
-
+[![wipEout HD trailer](https://img.youtube.com/vi/XfAuuNv6790/0.jpg)](https://www.youtube.com/watch?v=XfAuuNv6790 "wipEout HD trailer")
 
 <p style="text-align: justify;">
       Like many people, I got this game totally free as an apology from Sony, after the PlayStation Network service was interrupted. As I had not played any <em>WipEout</em> game before, I choose <em>WipEout HD Fury</em> as one of my free downloads based only on the graphical aspect, and, to be honest, I am very happy to have chosen it.
