@@ -15,7 +15,7 @@ tags:
   - reviews
 ---
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1052" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/BookCoverPreviewFront.jpg" alt="BookCoverPreviewFront" width="225" height="317" />01- &#8220;Python for informatics&#8221;, de Dr. Charles Severance.</strong>
+  <strong><img class="alignleft size-full wp-image-1052" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/BookCoverPreviewFront.jpg" alt="BookCoverPreviewFront" width="225" height="317" />01- &#8220;Python for informatics&#8221;, de Dr. Charles Severance.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -23,7 +23,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1056" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/el-arte-intrusion.png" alt="el-arte-intrusion" width="225" height="302" />02 &#8211; &#8220;El arte de la intrusión&#8221;, de Kevin D. Mitnick y William L. Simon.</strong>
+  <strong><img class="alignleft size-full wp-image-1056" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/el-arte-intrusion.png" alt="el-arte-intrusion" width="225" height="302" />02 &#8211; &#8220;El arte de la intrusión&#8221;, de Kevin D. Mitnick y William L. Simon.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1059" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/Soy-un-Gato-Soseki-Natsume.jpg" alt="Soy un Gato - Soseki Natsume" width="225" height="341" />03 &#8211; &#8220;Soy un gato&#8221;, de Natsume Sōseki.</strong>
+  <strong><img class="alignleft size-full wp-image-1059" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/Soy-un-Gato-Soseki-Natsume.jpg" alt="Soy un Gato - Soseki Natsume" width="225" height="341" />03 &#8211; &#8220;Soy un gato&#8221;, de Natsume Sōseki.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -59,7 +59,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1060" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/the-martian-by-andy-weir.jpg" alt="the-martian-by-andy-weir" width="225" height="342" />04 &#8211; &#8220;The martian&#8221;, de Andy Weir.</strong>
+  <strong><img class="alignleft size-full wp-image-1060" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/the-martian-by-andy-weir.jpg" alt="the-martian-by-andy-weir" width="225" height="342" />04 &#8211; &#8220;The martian&#8221;, de Andy Weir.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -75,7 +75,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1053" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/brief.png" alt="brief" width="225" height="349" />05 &#8211; &#8220;A brief history of time&#8221;, de Stephen Hawking.</strong>
+  <strong><img class="alignleft size-full wp-image-1053" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/brief.png" alt="brief" width="225" height="349" />05 &#8211; &#8220;A brief history of time&#8221;, de Stephen Hawking.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -83,7 +83,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1061" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/theroad.jpg" alt="theroad" width="225" height="326" />06 &#8211; &#8220;The road&#8221;, de Cormac McCarthy.</strong>
+  <strong><img class="alignleft size-full wp-image-1061" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/theroad.jpg" alt="theroad" width="225" height="326" />06 &#8211; &#8220;The road&#8221;, de Cormac McCarthy.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -95,7 +95,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1057" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/moonmoon.jpg" alt="moonmoon" width="225" height="344" />07 &#8211; &#8220;The moon is a harsh mistress&#8221;, de Robert A. Heinlein.</strong>
+  <strong><img class="alignleft size-full wp-image-1057" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/moonmoon.jpg" alt="moonmoon" width="225" height="344" />07 &#8211; &#8220;The moon is a harsh mistress&#8221;, de Robert A. Heinlein.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -115,7 +115,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1051" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/A-Storm-of-Swords-George-R-R-Martin11-lge.jpg" alt="A-Storm-of-Swords-George-R-R-Martin11-lge" width="225" height="370" />08 &#8211; &#8220;A storm of swords&#8221;, de George R. R. Martin.</strong>
+  <strong><img class="alignleft size-full wp-image-1051" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/A-Storm-of-Swords-George-R-R-Martin11-lge.jpg" alt="A-Storm-of-Swords-George-R-R-Martin11-lge" width="225" height="370" />08 &#8211; &#8220;A storm of swords&#8221;, de George R. R. Martin.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -131,7 +131,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1055" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/childhood.jpg" alt="childhood" width="225" height="380" />09 &#8211; &#8220;Childhood&#8217;s end&#8221;, de Arthur C. Clarke.</strong>
+  <strong><img class="alignleft size-full wp-image-1055" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/childhood.jpg" alt="childhood" width="225" height="380" />09 &#8211; &#8220;Childhood&#8217;s end&#8221;, de Arthur C. Clarke.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -147,7 +147,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1054" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/CBSs-The-Great-Gatsby-Book-Cover.jpeg" alt="CBSs-The-Great-Gatsby-Book-Cover" width="225" height="329" />10 &#8211; &#8220;The great Gatsby&#8221;, de F. Scott Fitzgerald.</strong>
+  <strong><img class="alignleft size-full wp-image-1054" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/CBSs-The-Great-Gatsby-Book-Cover.jpeg" alt="CBSs-The-Great-Gatsby-Book-Cover" width="225" height="329" />10 &#8211; &#8220;The great Gatsby&#8221;, de F. Scott Fitzgerald.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -163,7 +163,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1058" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/sherlock-holmes-a-study-in-scarlet.png" alt="sherlock-holmes-a-study-in-scarlet" width="225" height="342" />11 &#8211; &#8220;A study in scarlet&#8221;, de Sir Arthur Conan Doyle.</strong>
+  <strong><img class="alignleft size-full wp-image-1058" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/sherlock-holmes-a-study-in-scarlet.png" alt="sherlock-holmes-a-study-in-scarlet" width="225" height="342" />11 &#8211; &#8220;A study in scarlet&#8221;, de Sir Arthur Conan Doyle.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -171,7 +171,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1050" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/9780099173311.jpg" alt="9780099173311" width="225" height="340" />12 &#8211; &#8220;Surely you are joking, Mr. Feynman&#8221;, de Richard P. Feynman.</strong>
+  <strong><img class="alignleft size-full wp-image-1050" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/9780099173311.jpg" alt="9780099173311" width="225" height="340" />12 &#8211; &#8220;Surely you are joking, Mr. Feynman&#8221;, de Richard P. Feynman.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -183,7 +183,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1062" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/The-Terrorists-Son.jpg" alt="Ebrahim COVER IMAGE.JPG" width="225" height="318" />13 &#8211; &#8220;The terrorist&#8217;s son&#8221;, de Zak Ebrahim y Jeff Giles.</strong>
+  <strong><img class="alignleft size-full wp-image-1062" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/12/The-Terrorists-Son.jpg" alt="Ebrahim COVER IMAGE.JPG" width="225" height="318" />13 &#8211; &#8220;The terrorist&#8217;s son&#8221;, de Zak Ebrahim y Jeff Giles.</strong>
 </p>
 
 <p style="text-align: justify;">

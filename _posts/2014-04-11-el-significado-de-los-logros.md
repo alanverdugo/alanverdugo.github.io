@@ -10,7 +10,7 @@ permalink: /blog/significado-logros
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
 ---
 <p style="text-align: justify;">
       Hace poco participé en mi primera carrera &#8220;oficial&#8221;. Corrí 5 kilómetros sin parar.

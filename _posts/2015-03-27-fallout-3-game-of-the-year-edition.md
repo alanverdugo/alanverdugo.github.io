@@ -15,7 +15,7 @@ tags:
   - reviews
 ---
 <p style="text-align: justify;">
-  <strong>Developer:</strong> Bethesda Game Studios<img class="alignright wp-image-776" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/03/f3_1.jpg" alt="Fallout 3 Goty box art" width="166" height="192" />
+  <strong>Developer:</strong> Bethesda Game Studios<img class="alignright wp-image-776" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/03/f3_1.jpg" alt="Fallout 3 Goty box art" width="166" height="192" />
 </p>
 
 <p style="text-align: justify;">

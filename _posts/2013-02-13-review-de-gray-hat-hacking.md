@@ -37,7 +37,7 @@ tags:
 
 **Portada:**
 
-[<img class="aligncenter size-full wp-image-20" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2013/02/gray-hat-hacking-cover.jpg" alt="gray-hat-hacking-cover" width="200" height="248" />](https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2013/02/gray-hat-hacking-cover.jpg)
+[<img class="aligncenter size-full wp-image-20" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2013/02/gray-hat-hacking-cover.jpg" alt="gray-hat-hacking-cover" width="200" height="248" />](https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2013/02/gray-hat-hacking-cover.jpg)
 
 &nbsp;
 

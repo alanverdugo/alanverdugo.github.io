@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1135.jpg"><img class="alignleft wp-image-1791" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1135.jpg" alt="min-dscn1135" width="300" height="400" /></a>OSAKA.</strong>
+  <strong><a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1135.jpg"><img class="alignleft wp-image-1791" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1135.jpg" alt="min-dscn1135" width="300" height="400" /></a>OSAKA.</strong>
 </p>
 
 <p style="text-align: center;">
@@ -38,7 +38,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Dotombori.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1748.jpg" target="_blank"><img class="alignright wp-image-1765" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1748.jpg" alt="min-dscn1748" width="300" height="225" /></a></strong>
+  <strong>Dotombori.<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1748.jpg" target="_blank"><img class="alignright wp-image-1765" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1748.jpg" alt="min-dscn1748" width="300" height="225" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +78,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1234.jpg" target="_blank"><img class="alignleft wp-image-1629" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1234.jpg" alt="min-dscn1234" width="300" height="225" /></a>Fushimi Inari-Taisha</strong>
+  <strong><a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1234.jpg" target="_blank"><img class="alignleft wp-image-1629" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1234.jpg" alt="min-dscn1234" width="300" height="225" /></a>Fushimi Inari-Taisha</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -102,7 +102,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Saliendo de Japón.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1333.jpg" target="_blank"><img class="alignright wp-image-1656" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1333.jpg" alt="min-dscn1333" width="300" height="225" /></a></strong>
+  <strong>Saliendo de Japón.<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1333.jpg" target="_blank"><img class="alignright wp-image-1656" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1333.jpg" alt="min-dscn1333" width="300" height="225" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -122,7 +122,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-      Me permitió darme cuenta de lo dependiente que México es de los Estados Unidos. No sólo en cuestiones económicas y geográficas, sino en temas tan sencillos como la música, la comida, la arquitectura, la moda y la actitud que tenemos frente al trabajo y a la vida en general. Esto es de esperarse, pues culturas tan cercanas tienden a tener aspectos parecidos, pero no es hasta que uno va a un país totalmente diferente que llega a notar la gravedad de esto.<br /> <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1622.jpg" target="_blank"><img class="alignleft wp-image-1729" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1622.jpg" alt="min-dscn1622" width="300" height="225" /></a>     Lo peor del viaje fue el jetlag, tanto el de llegada como el de regreso. Despertar a las 3am sin poder volver a dormir y después estar totalmente exhausto a medio día no es una sensación agradable, pero es inevitable, es pasajera, y es un precio pequeño que estoy totalmente dispuesto a pagar de nuevo.
+      Me permitió darme cuenta de lo dependiente que México es de los Estados Unidos. No sólo en cuestiones económicas y geográficas, sino en temas tan sencillos como la música, la comida, la arquitectura, la moda y la actitud que tenemos frente al trabajo y a la vida en general. Esto es de esperarse, pues culturas tan cercanas tienden a tener aspectos parecidos, pero no es hasta que uno va a un país totalmente diferente que llega a notar la gravedad de esto.<br /> <a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1622.jpg" target="_blank"><img class="alignleft wp-image-1729" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1622.jpg" alt="min-dscn1622" width="300" height="225" /></a>     Lo peor del viaje fue el jetlag, tanto el de llegada como el de regreso. Despertar a las 3am sin poder volver a dormir y después estar totalmente exhausto a medio día no es una sensación agradable, pero es inevitable, es pasajera, y es un precio pequeño que estoy totalmente dispuesto a pagar de nuevo.
 </p>
 
 <p style="text-align: justify;">
@@ -134,7 +134,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-      Creo que el aprendizaje más valioso que traje del viaje fue ver lo profesionales y empáticos que pueden ser los japoneses. Admiré muchísimo esto, pues todos los días confirmo que<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1667.jpg" target="_blank"><img class="alignright wp-image-1743" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1667.jpg" alt="min-dscn1667" width="300" height="225" /></a> algo que nos falta en México es profesionalismo. Los japoneses tienen una mentalidad casi obsesiva con su trabajo, y, aunque sé que esto les trae ciertos problemas, también sé que podríamos aprender mucho de esto. Sé que muchas personas consideran la personalidad de los japoneses como tímida, fría o demasiado seria, pero creo que lo que pasa es que no les gusta importunar a los demás. Por ejemplo, los japoneses tienen fiestas y festivales, y si alguno de ellos quiere embriagarse y cantar hasta el día siguiente, va a hacerlo en un cuarto privado para no molestar a los vecinos en la madrugada (de hecho, es por esto que los karaokes son tan populares allá).
+      Creo que el aprendizaje más valioso que traje del viaje fue ver lo profesionales y empáticos que pueden ser los japoneses. Admiré muchísimo esto, pues todos los días confirmo que<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1667.jpg" target="_blank"><img class="alignright wp-image-1743" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/11/min-DSCN1667.jpg" alt="min-dscn1667" width="300" height="225" /></a> algo que nos falta en México es profesionalismo. Los japoneses tienen una mentalidad casi obsesiva con su trabajo, y, aunque sé que esto les trae ciertos problemas, también sé que podríamos aprender mucho de esto. Sé que muchas personas consideran la personalidad de los japoneses como tímida, fría o demasiado seria, pero creo que lo que pasa es que no les gusta importunar a los demás. Por ejemplo, los japoneses tienen fiestas y festivales, y si alguno de ellos quiere embriagarse y cantar hasta el día siguiente, va a hacerlo en un cuarto privado para no molestar a los vecinos en la madrugada (de hecho, es por esto que los karaokes son tan populares allá).
 </p>
 
 <p style="text-align: justify;">

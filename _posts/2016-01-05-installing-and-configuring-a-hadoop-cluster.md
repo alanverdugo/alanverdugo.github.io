@@ -23,7 +23,7 @@ atlbz153120.cloud.example.com (IP Address: 9.9.153.120) (alias: slave-1)
 atlbz153078.cloud.example.com (IP Address: 9.9.153.78)  (alias: slave-2)
 atlbz153064.cloud.example.com (IP Address: 9.9.153.64)  (alias: slave-3)</pre><figure id="attachment_1081" aria-describedby="caption-attachment-1081" style="width: 712px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-1081" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/HadoopDiagram.png" alt="Architecture diagram." width="712" height="590" /> <figcaption id="caption-attachment-1081" class="wp-caption-text">Architecture diagram.</figcaption></figure> 
+<img class="size-full wp-image-1081" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/01/HadoopDiagram.png" alt="Architecture diagram." width="712" height="590" /> <figcaption id="caption-attachment-1081" class="wp-caption-text">Architecture diagram.</figcaption></figure> 
 
 <p style="text-align: justify;">
       We designated <strong>atlbz153122</strong> as the master for no reason in particular. The aliases can be modified according to your needs. I.e. If you are using these same hosts for other cluster projects, you may want to specify the aliases as &#8220;hadoop-master&#8221; or &#8220;hadoop-slave-1&#8221;. They were created using the same image, so all of them have this setup:
@@ -305,7 +305,7 @@ Make a test directory:
 
 <pre class="theme:sublime-text font:ubuntu-mono font-size-enable:false toolbar:2 nums:false wrap:true lang:sh decode:true">/opt/hadoop/hadoop/bin/hadoop fs -mkdir hdfs://master:9000/testdir0</pre>
 
-[<img class="aligncenter wp-image-1082 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/hadoopFS1.png" alt="hadoopFS1" width="1403" height="445" />](https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/hadoopFS1.png)
+[<img class="aligncenter wp-image-1082 size-full" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/01/hadoopFS1.png" alt="hadoopFS1" width="1403" height="445" />](https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/01/hadoopFS1.png)
 
 List the contents of root:
 
@@ -323,11 +323,11 @@ Then add our text file to our new directory:
 
 <pre class="theme:sublime-text font:ubuntu-mono font-size-enable:false nums:false wrap:true lang:sh decode:true">/opt/hadoop/hadoop/bin/hadoop fs -copyFromLocal /tmp/testdir1/loremGibson.txt hdfs://master:9000/testdir0/loremGibson.txt</pre>
 
-[<img class="aligncenter wp-image-1083 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/hadoopFS2.png" alt="hadoopFS2" width="1395" height="451" />](https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/hadoopFS2.png)
+[<img class="aligncenter wp-image-1083 size-full" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/01/hadoopFS2.png" alt="hadoopFS2" width="1395" height="451" />](https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/01/hadoopFS2.png)
 
 Now you can see that our file has been automatically replicated to all 3 nodes!
 
-<img class="aligncenter size-full wp-image-1084" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/hadoopFS3.png" alt="hadoopFS3" width="610" height="612" /> 
+<img class="aligncenter size-full wp-image-1084" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/01/hadoopFS3.png" alt="hadoopFS3" width="610" height="612" /> 
 
 **Conclusion:**
 

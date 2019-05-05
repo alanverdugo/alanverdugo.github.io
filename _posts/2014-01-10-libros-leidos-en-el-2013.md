@@ -10,7 +10,7 @@ permalink: /blog/libros-2013
 categories:
   - Review
 tags:
-  - español
+  - spanish
   - libros
   - reviews
 ---

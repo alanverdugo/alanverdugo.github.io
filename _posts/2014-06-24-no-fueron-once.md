@@ -10,7 +10,7 @@ permalink: /blog/no-fueron-11
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - nonsense
 ---
 <p style="text-align: justify;">

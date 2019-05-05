@@ -27,7 +27,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img class="aligncenter size-full wp-image-1945" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/04/CAM00622.jpg" alt="" width="400" height="300" />
+  <img class="aligncenter size-full wp-image-1945" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2017/04/CAM00622.jpg" alt="" width="400" height="300" />
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Mainframes</strong><img class="alignright size-full wp-image-1947" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/04/CAM00629.jpg" alt="" width="300" height="400" />
+  <strong>Mainframes</strong><img class="alignright size-full wp-image-1947" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2017/04/CAM00629.jpg" alt="" width="300" height="400" />
 </p>
 
 <p style="text-align: justify;">
@@ -71,7 +71,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong><img class="alignleft size-full wp-image-1946" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/04/CAM00628.jpg" alt="" width="300" height="400" />Phone chargers</strong>
+  <strong><img class="alignleft size-full wp-image-1946" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2017/04/CAM00628.jpg" alt="" width="300" height="400" />Phone chargers</strong>
 </p>
 
 <p style="text-align: justify;">

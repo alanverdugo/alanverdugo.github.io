@@ -29,27 +29,27 @@ tags:
   </p>
   
   <p dir="ltr">
-    Once you are logged in, in &#8220;My projects&#8221;, select &#8220;Manage Servers&#8230;&#8221;<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/1.png"><img class="aligncenter size-full wp-image-619" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/1.png" alt="1" width="411" height="388" /></a>
+    Once you are logged in, in &#8220;My projects&#8221;, select &#8220;Manage Servers&#8230;&#8221;<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/1.png"><img class="aligncenter size-full wp-image-619" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/1.png" alt="1" width="411" height="388" /></a>
   </p>
   
   <p dir="ltr">
-    Search for the hostname of the desired server and select it.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/2.png"><img class="aligncenter wp-image-620 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/2.png" alt="2" width="620" height="181" /></a>
+    Search for the hostname of the desired server and select it.<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/2.png"><img class="aligncenter wp-image-620 size-full" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/2.png" alt="2" width="620" height="181" /></a>
   </p>
   
   <p dir="ltr">
-    Click on the &#8220;Modify Server Resources&#8221; button.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/3.png"><img class="aligncenter wp-image-621 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/3.png" alt="3" width="624" height="190" /></a>
+    Click on the &#8220;Modify Server Resources&#8221; button.<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/3.png"><img class="aligncenter wp-image-621 size-full" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/3.png" alt="3" width="624" height="190" /></a>
   </p>
   
   <p dir="ltr">
-    Click on the Edit button.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/4.png"><img class="aligncenter wp-image-622 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/4.png" alt="4" width="488" height="438" /></a>
+    Click on the Edit button.<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/4.png"><img class="aligncenter wp-image-622 size-full" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/4.png" alt="4" width="488" height="438" /></a>
   </p>
   
   <p dir="ltr">
-    In this case we will add more space to the disk. Simply specify the desired total amount and click OK.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/5.png"><img class="aligncenter size-full wp-image-623" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/5.png" alt="5" width="501" height="477" /></a>
+    In this case we will add more space to the disk. Simply specify the desired total amount and click OK.<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/5.png"><img class="aligncenter size-full wp-image-623" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/5.png" alt="5" width="501" height="477" /></a>
   </p>
   
   <p dir="ltr">
-    Once your request has been placed, it will be resolved after a few minutes. You can check its status on the &#8220;My Requests&#8221; part of the home page. You will also get an email notification.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/6.png"><img class="aligncenter wp-image-624 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/09/6.png" alt="6" width="407" height="337" /></a>
+    Once your request has been placed, it will be resolved after a few minutes. You can check its status on the &#8220;My Requests&#8221; part of the home page. You will also get an email notification.<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/6.png"><img class="aligncenter wp-image-624 size-full" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2014/09/6.png" alt="6" width="407" height="337" /></a>
   </p>
   
   <p dir="ltr">

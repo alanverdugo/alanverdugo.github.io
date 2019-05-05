@@ -11,6 +11,7 @@ suf_meta_keywords:
 categories:
   - Uncategorized
 tags:
+  - spanish
   - nonsense
 ---
 <p style="text-align: justify;">

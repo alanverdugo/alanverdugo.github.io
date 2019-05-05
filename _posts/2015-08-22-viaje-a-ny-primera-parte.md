@@ -33,7 +33,7 @@ tags:
       Pero no fue así. Verán, mi lugar no tenía ventana, así que no pude ver nada. Y no, no estoy hablando de que me tocó sentarme en el pasillo o en medio de dos gordas consumidoras de McDonald&#8217;s, no. Mi asiento era en el lugar de las ventanas, pero por alguna razón ese panel no tenía una ventana. Era el único lugar de todo el avión que estaba así, y lo peor es que no podía cambiarme de lugar, porque, como dije antes, American Airlines había sobrevendido el vuelo y por lo tanto todos los otros lugares estaban ocupados. Era como si ese avión hubiera sido construido con piezas sobrantes de otros aviones y les faltó una ventana para un lugar. Para mi lugar.
 </p><figure id="attachment_867" aria-describedby="caption-attachment-867" style="width: 604px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-867" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/08/windowless.jpg" alt="Era algo así pero con un avión de la primera mitad del siglo pasado." width="604" height="465" /> <figcaption id="caption-attachment-867" class="wp-caption-text">Era algo así pero con un avión construido durante la primera mitad del siglo pasado.</figcaption></figure> 
+<img class="size-full wp-image-867" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2015/08/windowless.jpg" alt="Era algo así pero con un avión de la primera mitad del siglo pasado." width="604" height="465" /> <figcaption id="caption-attachment-867" class="wp-caption-text">Era algo así pero con un avión construido durante la primera mitad del siglo pasado.</figcaption></figure> 
 
 <p style="text-align: justify;">
       No volveré a quejarme de las aerolineas mexicanas.

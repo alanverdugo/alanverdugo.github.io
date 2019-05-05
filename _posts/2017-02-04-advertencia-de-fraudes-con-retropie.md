@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img class="aligncenter size-full wp-image-1901" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/02/1.png" alt="" width="514" height="555" />  <img class="aligncenter wp-image-1902 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/02/2.png" width="367" height="86" />
+  <img class="aligncenter size-full wp-image-1901" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2017/02/1.png" alt="" width="514" height="555" />  <img class="aligncenter wp-image-1902 size-full" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2017/02/2.png" width="367" height="86" />
 </p>
 
 <p style="text-align: justify;">
@@ -71,7 +71,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img class="aligncenter wp-image-1903 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/02/3.png" width="913" height="252" />
+  <img class="aligncenter wp-image-1903 size-full" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2017/02/3.png" width="913" height="252" />
 </p>
 
 <p style="text-align: justify;">

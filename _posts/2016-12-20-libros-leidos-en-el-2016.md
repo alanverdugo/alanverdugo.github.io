@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1824" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min01.jpg" alt="" width="225" height="351" />01 &#8211; &#8220;The information: A history, a theory, a flood.&#8221;, de James Gleick.</strong>
+  <strong><img class="alignleft size-full wp-image-1824" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min01.jpg" alt="" width="225" height="351" />01 &#8211; &#8220;The information: A history, a theory, a flood.&#8221;, de James Gleick.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -31,7 +31,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1825" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min02.jpg" alt="" width="225" height="336" />02 &#8211; &#8220;The forever war&#8221;, de Joe Haldeman.</strong>
+  <strong><img class="alignleft size-full wp-image-1825" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min02.jpg" alt="" width="225" height="336" />02 &#8211; &#8220;The forever war&#8221;, de Joe Haldeman.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1826" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min03.jpg" alt="" width="225" height="359" />03 &#8211; &#8220;Cordero&#8221;, de Christopher Moore.</strong>
+  <strong><img class="alignleft size-full wp-image-1826" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min03.jpg" alt="" width="225" height="359" />03 &#8211; &#8220;Cordero&#8221;, de Christopher Moore.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -55,7 +55,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1827" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min04.jpg" alt="" width="225" height="379" />04 &#8211; &#8220;The hacker crackdown &#8211; Law and disorder on the electronic frontier.&#8221;, de Bruce Sterling.</strong>
+  <strong><img class="alignleft size-full wp-image-1827" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min04.jpg" alt="" width="225" height="379" />04 &#8211; &#8220;The hacker crackdown &#8211; Law and disorder on the electronic frontier.&#8221;, de Bruce Sterling.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -63,7 +63,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1828" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min05.jpg" alt="" width="225" height="325" />05 &#8211; &#8220;The princess bride, S. Morgenstern&#8217;s classic tale of true love and high adventure&#8221;, de William Goldman.</strong>
+  <strong><img class="alignleft size-full wp-image-1828" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min05.jpg" alt="" width="225" height="325" />05 &#8211; &#8220;The princess bride, S. Morgenstern&#8217;s classic tale of true love and high adventure&#8221;, de William Goldman.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -75,7 +75,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1829" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min06.jpeg" alt="" width="225" height="281" />06 &#8211; &#8220;CompTIA Linux+ complete study guide, 3rd edition&#8221;, de Roderick W. Smith.</strong>
+  <strong><img class="alignleft size-full wp-image-1829" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min06.jpeg" alt="" width="225" height="281" />06 &#8211; &#8220;CompTIA Linux+ complete study guide, 3rd edition&#8221;, de Roderick W. Smith.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -83,7 +83,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1830" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min07.jpg" alt="" width="225" height="359" />07 &#8211; &#8220;The man in the high castle&#8221;, de Philip K. Dick.</strong>
+  <strong><img class="alignleft size-full wp-image-1830" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min07.jpg" alt="" width="225" height="359" />07 &#8211; &#8220;The man in the high castle&#8221;, de Philip K. Dick.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -99,7 +99,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1831" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min08.jpg" alt="" width="225" height="338" />08 &#8211; &#8220;Lord of Light&#8221;, de Roger Zelazny.</strong>
+  <strong><img class="alignleft size-full wp-image-1831" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min08.jpg" alt="" width="225" height="338" />08 &#8211; &#8220;Lord of Light&#8221;, de Roger Zelazny.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -143,7 +143,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1832" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min09.jpg" alt="" width="225" height="319" />09 &#8211; &#8220;The selfish gene&#8221;, de Richard Dawkings.</strong>
+  <strong><img class="alignleft size-full wp-image-1832" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/min09.jpg" alt="" width="225" height="319" />09 &#8211; &#8220;The selfish gene&#8221;, de Richard Dawkings.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -163,7 +163,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-1867" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/space.jpg" alt="" width="225" height="371" />10 &#8211; &#8220;Have space suit-will travel&#8221;, de Robert A. Heinlein.</strong>
+  <strong><img class="alignleft size-full wp-image-1867" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2016/12/space.jpg" alt="" width="225" height="371" />10 &#8211; &#8220;Have space suit-will travel&#8221;, de Robert A. Heinlein.</strong>
 </p>
 
 > <p style="text-align: justify;">

@@ -59,7 +59,7 @@ tags:
       While the technical aspect of motion pictures have obviously advanced thanks to new technology, it was not clear if this also improved the overall quality of the movie. In the next image I present a chart of the relation between launch year and average rating for the movies launched in each year.
 </p><figure id="attachment_2068" aria-describedby="caption-attachment-2068" style="width: 1916px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-2068" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/11/movie_average_per_year.png" alt="Fig. 1 - Movie average rating per year." width="1916" height="916" />](https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/11/movie_average_per_year.png)<figcaption id="caption-attachment-2068" class="wp-caption-text">Fig. 1 &#8211; Movie average rating per year.</figcaption></figure> 
+[<img class="size-full wp-image-2068" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2017/11/movie_average_per_year.png" alt="Fig. 1 - Movie average rating per year." width="1916" height="916" />](https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/wp-content/uploads/2017/11/movie_average_per_year.png)<figcaption id="caption-attachment-2068" class="wp-caption-text">Fig. 1 &#8211; Movie average rating per year.</figcaption></figure> 
 
 <p style="text-align: justify;">
       Some interesting facts I got from this analysis:
