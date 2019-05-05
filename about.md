@@ -5,4 +5,4 @@ title: About
 ---
 
 # Some info 
-...about how cool you are ;)
+From retrotech to space exploration. I enjoy all aspects of science, currently focusing on software. Open source die-hard fan.
