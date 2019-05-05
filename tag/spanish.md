@@ -1,4 +1,4 @@
 ---
 layout: tag_index
-tag: español
+tag: spanish
 ---
