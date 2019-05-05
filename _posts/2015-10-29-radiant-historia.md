@@ -15,7 +15,7 @@ tags:
   - reviews
 ---
 <p style="text-align: justify;">
-  <img class="alignright wp-image-829" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/07/Radiant_Historia_Cover_Art.jpg" alt="Radiant Historia" width="237" height="213" />
+  <img class="alignright wp-image-829" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/07/Radiant_Historia_Cover_Art.jpg" alt="Radiant Historia" width="237" height="213" />
 </p>
 
 <p style="text-align: justify;">
@@ -70,7 +70,7 @@ tags:
       There is a lot of dialogue in the game, and due to the frequent travels back in time, sometimes you have to repeat lengthy scenes several times. The good news are that the scenes are elegantly written and you can skip or fast-forward most of them.
 </p><figure id="attachment_960" aria-describedby="caption-attachment-960" style="width: 414px" class="wp-caption alignright">
 
-<img class=" wp-image-960" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/10/RadiantHistoriaFirecity.jpg" alt="The story is complex and interesting." width="414" height="231" /> <figcaption id="caption-attachment-960" class="wp-caption-text">The story is complex and interesting.</figcaption></figure> 
+<img class=" wp-image-960" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/10/RadiantHistoriaFirecity.jpg" alt="The story is complex and interesting." width="414" height="231" /> <figcaption id="caption-attachment-960" class="wp-caption-text">The story is complex and interesting.</figcaption></figure> 
 
 <p style="text-align: justify;">
       The game sometimes feels too big in terms of story and dialogue for one single small cartridge. Sometimes I got the feeling that such a rich story should have been better portrayed in a movie or a book, but the time travel mechanics would make this just too cumbersome or even impossible. The profound story is fantastic and very deep, it subtly includes important themes like control, conflict, love, free will, technological progress, environmentalism, religion, racism, segregation and trust. The ability to travel back in time and choose a different path makes the player think in how his or her life would be different with such a power. However, it quickly becomes clear that trying to have a perfect life is futile. There is no perfect path and trying to fix a problem often creates more difficulty. The game raises important philosophical questions to the player and often gives the player choices that will directly impact his own fate and ultimately the fate of the world.

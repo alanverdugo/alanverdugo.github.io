@@ -10,7 +10,7 @@ permalink: /blog/nyc2
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - travel
 ---
 <p style="text-align: justify;">
@@ -22,7 +22,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/12/min-DSCN2152.jpg"><img class="alignleft wp-image-1841" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/12/min-DSCN2152.jpg" width="300" height="225" /></a>American Museum of Natural History.</strong>
+  <strong><a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min-DSCN2152.jpg"><img class="alignleft wp-image-1841" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min-DSCN2152.jpg" width="300" height="225" /></a>American Museum of Natural History.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -30,7 +30,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Broadway.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/12/min-DSCN2183.jpg"><img class="alignright wp-image-1842" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/12/min-DSCN2183.jpg" width="300" height="225" /></a></strong>
+  <strong>Broadway.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min-DSCN2183.jpg"><img class="alignright wp-image-1842" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min-DSCN2183.jpg" width="300" height="225" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -54,7 +54,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/12/min-DSCN2161.jpg"><img class="alignleft wp-image-1843" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/12/min-DSCN2161.jpg" width="300" height="225" /></a>    Uno de mis momentos favoritos del viaje fue ir a comer pizza en uno de los lugares donde venden cada rebanada por $1 dolar, no sólo por que fue la pizza más deliciosa que he probado (a pesar de que sólo era de queso), sino por la situación tan cosmopolita que representó. La pizza (de origen italiano, como todos saben) fue preparada y servida por gente de la india, y nosotros, dos mexicanos, la estábamos comiendo junto a un par de franceses. Esto me pareció algo muy memorable y muy característico de Nueva York, pues pocas son las ciudades en que estas mezclas de culturas pueden darse, y a la vez me da esperanza de que la globalización nos haga tener muchos momentos parecidos, donde la gente está unida sin prejuicios ni conflictos. El hecho de estar a sólo tres cuadras de las oficinas de la ONU sólo hacía más evidente esto, y demuestra que es posible vivir en armonía bajo un fin común (en este caso, comer pizza).
+  <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min-DSCN2161.jpg"><img class="alignleft wp-image-1843" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/12/min-DSCN2161.jpg" width="300" height="225" /></a>    Uno de mis momentos favoritos del viaje fue ir a comer pizza en uno de los lugares donde venden cada rebanada por $1 dolar, no sólo por que fue la pizza más deliciosa que he probado (a pesar de que sólo era de queso), sino por la situación tan cosmopolita que representó. La pizza (de origen italiano, como todos saben) fue preparada y servida por gente de la india, y nosotros, dos mexicanos, la estábamos comiendo junto a un par de franceses. Esto me pareció algo muy memorable y muy característico de Nueva York, pues pocas son las ciudades en que estas mezclas de culturas pueden darse, y a la vez me da esperanza de que la globalización nos haga tener muchos momentos parecidos, donde la gente está unida sin prejuicios ni conflictos. El hecho de estar a sólo tres cuadras de las oficinas de la ONU sólo hacía más evidente esto, y demuestra que es posible vivir en armonía bajo un fin común (en este caso, comer pizza).
 </p>
 
 <p style="text-align: justify;">

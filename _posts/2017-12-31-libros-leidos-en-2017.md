@@ -20,12 +20,12 @@ responsive_meta_box_text_linkedin:
 categories:
   - Review
 tags:
-  - español
+  - spanish
   - libros
   - reviews
 ---
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2079" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/life-changing-magic.jpg" alt="" width="180" height="255" />01 &#8211; &#8220;The life-changing magic of tidying up: The japanese art of decluttering and organizing&#8221;, de Marie Kondo.</strong>
+  <strong><img class="alignleft size-full wp-image-2079" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/life-changing-magic.jpg" alt="" width="180" height="255" />01 &#8211; &#8220;The life-changing magic of tidying up: The japanese art of decluttering and organizing&#8221;, de Marie Kondo.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +39,7 @@ tags:
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2080" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/masters.jpg" alt="" width="180" height="280" />02 &#8211; &#8220;His master&#8217;s voice&#8221;, de Stanisław Lem.</strong>
+  <strong><img class="alignleft size-full wp-image-2080" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/masters.jpg" alt="" width="180" height="280" />02 &#8211; &#8220;His master&#8217;s voice&#8221;, de Stanisław Lem.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -69,7 +69,7 @@ tags:
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2082" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/panda-thumb-cover.jpg" alt="" width="180" height="282" />03 &#8211; &#8220;The panda&#8217;s thumb&#8221;, de Stephen Jay Gould.</strong>
+  <strong><img class="alignleft size-full wp-image-2082" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/panda-thumb-cover.jpg" alt="" width="180" height="282" />03 &#8211; &#8220;The panda&#8217;s thumb&#8221;, de Stephen Jay Gould.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -93,7 +93,7 @@ tags:
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2081" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/newme_talk_pretty_one_day450_0.jpg" alt="" width="180" height="283" />04 &#8211; &#8220;Me talk pretty one day&#8221;, de David Sedaris.</strong>
+  <strong><img class="alignleft size-full wp-image-2081" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/newme_talk_pretty_one_day450_0.jpg" alt="" width="180" height="283" />04 &#8211; &#8220;Me talk pretty one day&#8221;, de David Sedaris.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -111,7 +111,7 @@ tags:
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2076" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/contextcoverbig.jpg" alt="" width="180" height="288" />05 &#8211; &#8220;Context: further selected essays on productivity, creativity, parenting, and politics in the 21st Century&#8221;, de Cory Doctorow.</strong>
+  <strong><img class="alignleft size-full wp-image-2076" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/contextcoverbig.jpg" alt="" width="180" height="288" />05 &#8211; &#8220;Context: further selected essays on productivity, creativity, parenting, and politics in the 21st Century&#8221;, de Cory Doctorow.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -133,7 +133,7 @@ tags:
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2085" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/unik.gif" alt="" width="180" height="270" />06 &#8211; &#8220;Unikernels&#8221;, de Russell C. Pavlicek.</strong>
+  <strong><img class="alignleft size-full wp-image-2085" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/unik.gif" alt="" width="180" height="270" />06 &#8211; &#8220;Unikernels&#8221;, de Russell C. Pavlicek.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -155,7 +155,7 @@ tags:
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2083" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/the_girl_with_the_dragon_tattoo.jpg" alt="" width="180" height="268" />07 &#8211; &#8220;The girl with the dragon tattoo&#8221;, de Stieg Larsson.</strong>
+  <strong><img class="alignleft size-full wp-image-2083" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/the_girl_with_the_dragon_tattoo.jpg" alt="" width="180" height="268" />07 &#8211; &#8220;The girl with the dragon tattoo&#8221;, de Stieg Larsson.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -169,7 +169,7 @@ tags:
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2078" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/good-omens-1.jpg" alt="" width="180" height="254" />08 &#8211; &#8220;Good omens&#8221;, de Terry Pratchett y Neil Gaiman.</strong>
+  <strong><img class="alignleft size-full wp-image-2078" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/good-omens-1.jpg" alt="" width="180" height="254" />08 &#8211; &#8220;Good omens&#8221;, de Terry Pratchett y Neil Gaiman.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -199,7 +199,7 @@ tags:
 &nbsp;
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-2077" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/Freakonomics-Cover.png" alt="" width="180" height="270" />09 &#8211; &#8220;Freakonomics&#8221;, de Steven Levitt y Stephen J. Dubner.</strong>
+  <strong><img class="alignleft size-full wp-image-2077" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/Freakonomics-Cover.png" alt="" width="180" height="270" />09 &#8211; &#8220;Freakonomics&#8221;, de Steven Levitt y Stephen J. Dubner.</strong>
 </p>
 
 > <p style="text-align: justify;">
@@ -224,7 +224,7 @@ tags:
 
 &nbsp;
 
-**<img class="alignleft size-full wp-image-2084" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/thinking-fast-and-slow.jpg" alt="" width="180" height="269" />10 &#8211; &#8220;Thinking, fast and slow&#8221;, de Daniel Kahneman.**
+**<img class="alignleft size-full wp-image-2084" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/thinking-fast-and-slow.jpg" alt="" width="180" height="269" />10 &#8211; &#8220;Thinking, fast and slow&#8221;, de Daniel Kahneman.**
 
 > <p style="text-align: justify;">
 >   This is your System 1 talking. Slow down and let your System 2 take control.
@@ -256,7 +256,7 @@ tags:
 
 &nbsp;
 
-**<img class="alignleft size-full wp-image-2134" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/algernon.jpg" alt="" width="180" height="263" />11 &#8211; &#8220;Flowers for Algernon&#8221;, de Daniel Keyes.**
+**<img class="alignleft size-full wp-image-2134" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/algernon.jpg" alt="" width="180" height="263" />11 &#8211; &#8220;Flowers for Algernon&#8221;, de Daniel Keyes.**
 
 > <p style="text-align: justify;">
 >   Solitude gives me a chance to read and think, and now that the memories are coming through again-to rediscover my past, to find out who and what I really am. If anything should go wrong, I&#8217;ll have at least that.

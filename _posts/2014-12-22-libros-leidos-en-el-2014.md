@@ -10,12 +10,12 @@ permalink: /blog/libros-2014
 categories:
   - Review
 tags:
-  - español
+  - spanish
   - libros
   - reviews
 ---
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-679" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/1.png" alt="Unix haters handbook" width="225" height="285" />01 &#8211; &#8220;The Unix Haters Handbook&#8221;, de Simson Garfinkel, Daniel Weise y Steven Strassmann.</strong>
+  <strong><img class="alignleft size-full wp-image-679" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/1.png" alt="Unix haters handbook" width="225" height="285" />01 &#8211; &#8220;The Unix Haters Handbook&#8221;, de Simson Garfinkel, Daniel Weise y Steven Strassmann.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -27,7 +27,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-680" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/2.jpg" alt="Azteca" width="225" height="359" />02 &#8211; &#8220;Azteca&#8221;, de Gary Jennings.</strong>
+  <strong><img class="alignleft size-full wp-image-680" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/2.jpg" alt="Azteca" width="225" height="359" />02 &#8211; &#8220;Azteca&#8221;, de Gary Jennings.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-681" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/3.jpg" alt="Lone survivor" width="225" height="337" />03 &#8211; &#8220;Lone survivor&#8221;, de Marcus Luttrell.</strong>
+  <strong><img class="alignleft size-full wp-image-681" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/3.jpg" alt="Lone survivor" width="225" height="337" />03 &#8211; &#8220;Lone survivor&#8221;, de Marcus Luttrell.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -51,7 +51,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-682" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/4.jpg" alt="What I talk about when I talk about running" width="225" height="321" />04 &#8211; &#8220;What I talk about when I talk about running&#8221;, de Haruki Murakami.</strong>
+  <strong><img class="alignleft size-full wp-image-682" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/4.jpg" alt="What I talk about when I talk about running" width="225" height="321" />04 &#8211; &#8220;What I talk about when I talk about running&#8221;, de Haruki Murakami.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -67,7 +67,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-683" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/5.jpg" alt="Crisis de conciencia" width="225" height="309" />05 &#8211; &#8220;Crisis de conciencia&#8221;, de Raymond Franz.</strong>
+  <strong><img class="alignleft size-full wp-image-683" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/5.jpg" alt="Crisis de conciencia" width="225" height="309" />05 &#8211; &#8220;Crisis de conciencia&#8221;, de Raymond Franz.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -83,7 +83,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-684" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/6.jpg" alt="Starship troopers" width="225" height="325" />06 &#8211; &#8220;Starship troopers&#8221;, de Robert A. Heinlein.</strong>
+  <strong><img class="alignleft size-full wp-image-684" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/6.jpg" alt="Starship troopers" width="225" height="325" />06 &#8211; &#8220;Starship troopers&#8221;, de Robert A. Heinlein.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -95,7 +95,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-685" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/7.jpg" alt="500 años fregados pero cristianos" width="225" height="343" />07 &#8211; &#8220;500 años fregados pero cristianos&#8221;, de Rius.</strong>
+  <strong><img class="alignleft size-full wp-image-685" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/7.jpg" alt="500 años fregados pero cristianos" width="225" height="343" />07 &#8211; &#8220;500 años fregados pero cristianos&#8221;, de Rius.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -103,7 +103,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-686" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/8.jpeg" alt="A game of thrones" width="225" height="343" />08 &#8211; &#8220;A game of thrones&#8221;, de George R. R. Martin.</strong>
+  <strong><img class="alignleft size-full wp-image-686" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/8.jpeg" alt="A game of thrones" width="225" height="343" />08 &#8211; &#8220;A game of thrones&#8221;, de George R. R. Martin.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -115,7 +115,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-687" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/9.jpg" alt="Siddharta" width="225" height="338" />09 &#8211; &#8220;Siddhartha&#8221;, de Herman Hesse.</strong>
+  <strong><img class="alignleft size-full wp-image-687" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/9.jpg" alt="Siddharta" width="225" height="338" />09 &#8211; &#8220;Siddhartha&#8221;, de Herman Hesse.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -127,7 +127,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-688" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/10.jpg" alt="A clash of kings" width="225" height="344" />10 &#8211; &#8220;A clash of kings&#8221;, de George R. R. Martin.</strong>
+  <strong><img class="alignleft size-full wp-image-688" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/10.jpg" alt="A clash of kings" width="225" height="344" />10 &#8211; &#8220;A clash of kings&#8221;, de George R. R. Martin.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -143,7 +143,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-689" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/11.jpg" alt="Ready player one" width="225" height="351" />11 &#8211; &#8220;Ready player one&#8221;, de Ernest Cline.</strong>
+  <strong><img class="alignleft size-full wp-image-689" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/11.jpg" alt="Ready player one" width="225" height="351" />11 &#8211; &#8220;Ready player one&#8221;, de Ernest Cline.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -155,7 +155,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <strong><img class="alignleft size-full wp-image-690" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/12/12.jpg" alt="Demián" width="225" height="299" />12 &#8211; &#8220;Demián&#8221;, de Hermann Hesse.</strong>
+  <strong><img class="alignleft size-full wp-image-690" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/12/12.jpg" alt="Demián" width="225" height="299" />12 &#8211; &#8220;Demián&#8221;, de Hermann Hesse.</strong>
 </p>
 
 <p style="text-align: justify;">

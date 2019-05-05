@@ -85,7 +85,7 @@ tags:
   <a id="user-content-findings" class="anchor" href="https://github.com/alanverdugo/journalists_deaths_analysis#findings" aria-hidden="true"></a>Findings
 </h4>
 
-[<img class="size-full wp-image-2125" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/Mexico.png" alt="Figure 1: Number of journalists killed in Mexico." width="1594" height="811" />](http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/Mexico.png)
+[<img class="size-full wp-image-2125" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/Mexico.png" alt="Figure 1: Number of journalists killed in Mexico." width="1594" height="811" />](https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/Mexico.png)
 
 <p style="text-align: center;">
   <em>Figure 1: Number of journalists killed in Mexico.</em>
@@ -98,7 +98,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/USA.png"><img class="aligncenter size-full wp-image-2126" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/USA.png" alt="Figure 2: Number of journalists killed in USA." width="1575" height="814" /></a> <em>Figure 2: Number of journalists killed in USA.</em>
+  <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/USA.png"><img class="aligncenter size-full wp-image-2126" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/USA.png" alt="Figure 2: Number of journalists killed in USA." width="1575" height="814" /></a> <em>Figure 2: Number of journalists killed in USA.</em>
 </p>
 
 <p style="text-align: justify;">
@@ -107,7 +107,7 @@ tags:
 
 * * *
 
-[<img class="aligncenter size-full wp-image-2127" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/Mexico2.png" alt="Figure 3: Source of fire for journalists deaths in Mexico." width="966" height="702" />](http://li106-124.members.linode.com/blog/wp-content/uploads/2017/12/Mexico2.png)
+[<img class="aligncenter size-full wp-image-2127" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/Mexico2.png" alt="Figure 3: Source of fire for journalists deaths in Mexico." width="966" height="702" />](https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/12/Mexico2.png)
 
 <p style="text-align: center;">
   <em>Figure 3: Source of fire for journalists deaths in Mexico.</em>

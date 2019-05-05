@@ -56,7 +56,7 @@ swt-pi-gtk (Not found in java.library.path)
 </p>
 
 <p dir="ltr" style="text-align: justify;">
-  <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/yast1.png"><img class="aligncenter  wp-image-544" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/yast1.png" alt="yast1" width="584" height="224" /></a>
+  <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/yast1.png"><img class="aligncenter  wp-image-544" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/yast1.png" alt="yast1" width="584" height="224" /></a>
 </p>
 
 <p dir="ltr" style="text-align: justify;">
@@ -64,7 +64,7 @@ swt-pi-gtk (Not found in java.library.path)
 </p>
 
 <p dir="ltr" style="text-align: justify;">
-  <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/yast2.png"><img class="aligncenter  wp-image-545" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/yast2.png" alt="yast2" width="512" height="468" /></a>
+  <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/yast2.png"><img class="aligncenter  wp-image-545" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/yast2.png" alt="yast2" width="512" height="468" /></a>
 </p>
 
 <p dir="ltr" style="text-align: justify;">
@@ -76,7 +76,7 @@ swt-pi-gtk (Not found in java.library.path)
 </p>
 
 <p dir="ltr" style="text-align: justify;">
-  <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/gtk2.png"><img class="aligncenter  wp-image-546" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/gtk1.png" alt="gtk1" width="755" height="273" /><img class="aligncenter wp-image-547" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/gtk2.png" alt="gtk2" width="755" height="179" /></a>
+  <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/gtk2.png"><img class="aligncenter  wp-image-546" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/gtk1.png" alt="gtk1" width="755" height="273" /><img class="aligncenter wp-image-547" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/gtk2.png" alt="gtk2" width="755" height="179" /></a>
 </p>
 
 <p dir="ltr" style="text-align: justify;">
@@ -88,7 +88,7 @@ swt-pi-gtk (Not found in java.library.path)
 </p>
 
 <p dir="ltr" style="text-align: justify;">
-  <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/IM.png"><img class="aligncenter size-full wp-image-543" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/06/IM.png" alt="IM" width="796" height="571" /></a>
+  <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/IM.png"><img class="aligncenter size-full wp-image-543" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/06/IM.png" alt="IM" width="796" height="571" /></a>
 </p>
 
 <p dir="ltr" style="text-align: justify;">

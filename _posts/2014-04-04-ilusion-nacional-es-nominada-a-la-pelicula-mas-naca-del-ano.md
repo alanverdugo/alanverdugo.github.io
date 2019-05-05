@@ -10,7 +10,7 @@ permalink: /blog/pelicula-naca
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - Misinformation
 ---
 <p style="text-align: justify;">

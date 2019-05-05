@@ -46,7 +46,7 @@ tags:
       The distributed filesystem component, the main example of which is HDFS (Hadoop Distributed File System), though other file systems, such as IBM GPFS-FPO, are supported. In HDFS, there is a &#8220;NameNode&#8221; keeping track of all the locations of all the data across the cluster. The other nodes are called &#8220;DataNodes&#8221; and store the data in &#8220;blocks&#8221; of information. The same blocks are copied in several DataNodes (generally in another DataNode in the same rack and also in another DataNode in a different rack). Obviously, the higher the data redundancy in the cluster, the safer the data is in case one or several DataNodes go down or suffer irreparable damage. A Hadoop user can easily specify the amount of replication that is needed and customize the way the blocks are handled.
 </p><figure id="attachment_1018" aria-describedby="caption-attachment-1018" style="width: 671px" class="wp-caption aligncenter">
 
-<img class="wp-image-1018" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/12/IHS.jpg" alt="High level architecture" width="671" height="483" /> <figcaption id="caption-attachment-1018" class="wp-caption-text">Fig. 1: High level architecture diagram showing the the MapReduce and the HDFS layers.</figcaption></figure> 
+<img class="wp-image-1018" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/IHS.jpg" alt="High level architecture" width="671" height="483" /> <figcaption id="caption-attachment-1018" class="wp-caption-text">Fig. 1: High level architecture diagram showing the the MapReduce and the HDFS layers.</figcaption></figure> 
 
 <h3 style="text-align: justify;">
   Related projects
@@ -116,7 +116,7 @@ tags:
       <a href="https://zookeeper.apache.org/" target="_blank">ZooKeeper</a>: A high-performance coordination service for distributed applications.
 </p><figure id="attachment_1020" aria-describedby="caption-attachment-1020" style="width: 538px" class="wp-caption aligncenter">
 
-<img class="wp-image-1020 size-full" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/12/EcoSys_yarn.png" alt="EcoSys_yarn" width="538" height="355" /> <figcaption id="caption-attachment-1020" class="wp-caption-text">Fig. 2: An example of a Hadoop environment using several related projects.</figcaption></figure> 
+<img class="wp-image-1020 size-full" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/EcoSys_yarn.png" alt="EcoSys_yarn" width="538" height="355" /> <figcaption id="caption-attachment-1020" class="wp-caption-text">Fig. 2: An example of a Hadoop environment using several related projects.</figcaption></figure> 
 
 <h3 style="text-align: justify;">
   Who is using Hadoop?

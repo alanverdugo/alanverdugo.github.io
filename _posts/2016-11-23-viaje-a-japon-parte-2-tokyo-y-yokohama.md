@@ -10,7 +10,7 @@ permalink: /blog/japon2
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - travel
 ---
 <p style="text-align: center;">
@@ -22,7 +22,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0796.jpg" target="_blank"><img class="alignleft wp-image-1501" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0796.jpg" alt="min-dscn0796" width="300" height="225" /></a>Shibuya.</strong>
+  <strong><a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0796.jpg" target="_blank"><img class="alignleft wp-image-1501" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0796.jpg" alt="min-dscn0796" width="300" height="225" /></a>Shibuya.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +34,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Meiji Jingu.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0329.jpg" target="_blank"><img class="wp-image-1309 alignright" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0329.jpg" alt="min-dscn0329" width="300" height="225" /></a></strong>
+  <strong>Meiji Jingu.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0329.jpg" target="_blank"><img class="wp-image-1309 alignright" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0329.jpg" alt="min-dscn0329" width="300" height="225" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -54,7 +54,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0490.jpg" target="_blank"><img class="alignleft wp-image-1368" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0490.jpg" alt="min-dscn0490" width="300" height="225" /></a>    La residencia oficial del Emperador de Japón. Jamás había visto una casa tan amplia e impresionante. Los japoneses tienen un gusto excelente en casi todas las cosas y tenían un gusto aún mejor antes. El palacio tiene una extensión impresionante a pesar de que ciertas partes no están accesibles a los turistas. Este fue, fácilmente, uno de mis lugares favoritos en Tokyo. El palacio imperial es uno de los muchísimos lugares de Japón en donde se pueden tomar fotografías a casi cualquier dirección y prácticamente se tiene garantizada una escena digna de una postal.
+  <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0490.jpg" target="_blank"><img class="alignleft wp-image-1368" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0490.jpg" alt="min-dscn0490" width="300" height="225" /></a>    La residencia oficial del Emperador de Japón. Jamás había visto una casa tan amplia e impresionante. Los japoneses tienen un gusto excelente en casi todas las cosas y tenían un gusto aún mejor antes. El palacio tiene una extensión impresionante a pesar de que ciertas partes no están accesibles a los turistas. Este fue, fácilmente, uno de mis lugares favoritos en Tokyo. El palacio imperial es uno de los muchísimos lugares de Japón en donde se pueden tomar fotografías a casi cualquier dirección y prácticamente se tiene garantizada una escena digna de una postal.
 </p>
 
 <p style="text-align: center;">
@@ -74,7 +74,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Asakusa y Senso-ji.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0651.jpg" target="_blank"><img class="alignright wp-image-1432" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0651.jpg" alt="min-dscn0651" width="300" height="225" /></a></strong>
+  <strong>Asakusa y Senso-ji.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0651.jpg" target="_blank"><img class="alignright wp-image-1432" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0651.jpg" alt="min-dscn0651" width="300" height="225" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -82,7 +82,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Odaiba.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0827.jpg" target="_blank"><img class="alignleft wp-image-1513" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0827.jpg" alt="min-dscn0827" width="300" height="225" /></a></strong>
+  <strong>Odaiba.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0827.jpg" target="_blank"><img class="alignleft wp-image-1513" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0827.jpg" alt="min-dscn0827" width="300" height="225" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -102,7 +102,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-      <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0888.jpg" target="_blank"><img class="alignright wp-image-1530" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0888.jpg" alt="min-dscn0888" width="300" height="225" /></a>Hay tres autos que están disponibles: El AE-86 Sprinter Trueno de Takumi, el Impressa WRX de Bunta y el RX-7 de Keisuke. Sin embargo, no es posible elegir cuál vas a usar, y las empleadas te dirigen al primero que esté disponible. En parte tiene sentido que no se te permita elegir, porque sospecho que todos querrían usar el legendario &#8220;hachi-roku&#8221;. A mi me tocó conducir el Impressa. Desgraciadamente, el juego ha sido modificado para hacerlo más sencillo. Por una parte, la palanca sólo tiene dos posiciones: Up y Down. Es muy parecido a las &#8220;paletas&#8221; que usan los autos &#8220;estándar&#8221; nuevos. Tampoco hay un clutch que necesites presionar para cambiar de velocidad (esto fue lo que más me confundió). Pero supongo que estos cambios son para que niños y gente que no sabe conducir sean capaces de jugar. Además, las gráficas ya se ven un poco viejas. Por todo esto, el juego fue algo decepcionante, tomando en cuenta que es algo caro (600 yenes por unos minutos de juego).
+      <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0888.jpg" target="_blank"><img class="alignright wp-image-1530" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0888.jpg" alt="min-dscn0888" width="300" height="225" /></a>Hay tres autos que están disponibles: El AE-86 Sprinter Trueno de Takumi, el Impressa WRX de Bunta y el RX-7 de Keisuke. Sin embargo, no es posible elegir cuál vas a usar, y las empleadas te dirigen al primero que esté disponible. En parte tiene sentido que no se te permita elegir, porque sospecho que todos querrían usar el legendario &#8220;hachi-roku&#8221;. A mi me tocó conducir el Impressa. Desgraciadamente, el juego ha sido modificado para hacerlo más sencillo. Por una parte, la palanca sólo tiene dos posiciones: Up y Down. Es muy parecido a las &#8220;paletas&#8221; que usan los autos &#8220;estándar&#8221; nuevos. Tampoco hay un clutch que necesites presionar para cambiar de velocidad (esto fue lo que más me confundió). Pero supongo que estos cambios son para que niños y gente que no sabe conducir sean capaces de jugar. Además, las gráficas ya se ven un poco viejas. Por todo esto, el juego fue algo decepcionante, tomando en cuenta que es algo caro (600 yenes por unos minutos de juego).
 </p>
 
 <p style="text-align: center;">
@@ -114,7 +114,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0707.jpg" target="_blank"><img class="wp-image-1463 alignleft" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0707.jpg" alt="min-dscn0707" width="300" height="400" /></a>Skytree.</strong>
+  <strong><a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0707.jpg" target="_blank"><img class="wp-image-1463 alignleft" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0707.jpg" alt="min-dscn0707" width="300" height="400" /></a>Skytree.</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -130,7 +130,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Daikanyama.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0424.jpg" target="_blank"><img class="alignright wp-image-1349" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0424.jpg" alt="min-dscn0424" width="300" height="225" /></a></strong>
+  <strong>Daikanyama.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0424.jpg" target="_blank"><img class="alignright wp-image-1349" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0424.jpg" alt="min-dscn0424" width="300" height="225" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -138,7 +138,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <strong>Los trenes.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN1080.jpg" target="_blank"><img class="alignleft wp-image-1588" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN1080.jpg" alt="min-dscn1080" width="300" height="225" /></a></strong>
+  <strong>Los trenes.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1080.jpg" target="_blank"><img class="alignleft wp-image-1588" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN1080.jpg" alt="min-dscn1080" width="300" height="225" /></a></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -146,7 +146,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-      En Tokyo, los trenes tienen pantallas que muestran el recorrido del tren, con los nombres de las estaciones en japonés e inglés. Cada parada es anunciada en japonés y en inglés. En cada estación hay muchos letreros y señalamientos que permiten encontrar los andenes rápidamente (todo esto también en inglés). En Osaka y Kyoto los trenes son más viejos, no tienen pantallas, las paradas sólo se anuncian en japonés y las estaciones no ofrecen mapas impresos, pero incluso así, es fácil entender las rutas.<a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0171.jpg" target="_blank"><img class="alignright wp-image-1271" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0171.jpg" alt="min-dscn0171" width="300" height="225" /></a><br /> Algo que me llamó la atención del sistema de trenes japonés es que no usan una tarifa base como en la ciudad de México o Nueva York. En Japón, se paga dependiendo de qué tan lejos se va a viajar. Para evitar que alguien pague la tarifa mínima y trate de viajar más lejos, el boleto de entrada también se tiene que usar al momento de salir de la estación. Esto me pareció muy ingenioso y justo, pues debido a la extensión tan grande de la red de trenes, sería inconveniente que un usuario pague lo mismo por ir a la siguiente estación que al otro lado del pais. Tal vez este mecanismo de cobro es el que ha permitido a Japón ofrecer un servicio de tan alta calidad, y creo que, a pesar de las inevitables quejas que surgirían de los mexicanos, algo así se debería implementar aquí.
+      En Tokyo, los trenes tienen pantallas que muestran el recorrido del tren, con los nombres de las estaciones en japonés e inglés. Cada parada es anunciada en japonés y en inglés. En cada estación hay muchos letreros y señalamientos que permiten encontrar los andenes rápidamente (todo esto también en inglés). En Osaka y Kyoto los trenes son más viejos, no tienen pantallas, las paradas sólo se anuncian en japonés y las estaciones no ofrecen mapas impresos, pero incluso así, es fácil entender las rutas.<a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0171.jpg" target="_blank"><img class="alignright wp-image-1271" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0171.jpg" alt="min-dscn0171" width="300" height="225" /></a><br /> Algo que me llamó la atención del sistema de trenes japonés es que no usan una tarifa base como en la ciudad de México o Nueva York. En Japón, se paga dependiendo de qué tan lejos se va a viajar. Para evitar que alguien pague la tarifa mínima y trate de viajar más lejos, el boleto de entrada también se tiene que usar al momento de salir de la estación. Esto me pareció muy ingenioso y justo, pues debido a la extensión tan grande de la red de trenes, sería inconveniente que un usuario pague lo mismo por ir a la siguiente estación que al otro lado del pais. Tal vez este mecanismo de cobro es el que ha permitido a Japón ofrecer un servicio de tan alta calidad, y creo que, a pesar de las inevitables quejas que surgirían de los mexicanos, algo así se debería implementar aquí.
 </p>
 
 <p style="text-align: justify;">
@@ -154,7 +154,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-      El orgullo más grande del sistema de trenes japonés es el Shinkansen (A.K.A. el tren bala). La mejor manera en que puedo describir al Shinkansen es como un avión que nunca despega. De hecho, dentro de Japón es mucho más práctico viajar en Shinkansen que en avión.<br /> <a href="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0636.jpg" target="_blank"><img class="alignleft wp-image-1428" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/11/min-DSCN0636.jpg" alt="min-dscn0636" width="300" height="225" /></a>
+      El orgullo más grande del sistema de trenes japonés es el Shinkansen (A.K.A. el tren bala). La mejor manera en que puedo describir al Shinkansen es como un avión que nunca despega. De hecho, dentro de Japón es mucho más práctico viajar en Shinkansen que en avión.<br /> <a href="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0636.jpg" target="_blank"><img class="alignleft wp-image-1428" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/11/min-DSCN0636.jpg" alt="min-dscn0636" width="300" height="225" /></a>
 </p>
 
 <p style="text-align: justify;">

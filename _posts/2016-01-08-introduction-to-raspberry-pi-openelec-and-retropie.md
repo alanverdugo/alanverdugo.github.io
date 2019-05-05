@@ -21,14 +21,14 @@ tags:
       If you have been living under a rock in Mars, I&#8217;ll briefly explain what a Raspberry is and why they are so popular with the <a href="http://hackaday.com/category/raspberry-pi-2/" target="_blank">hacker/maker/DIY</a> scene. A Raspberry (besides a fruit) is basically just a tiny computer, about the size of a credit card. It doesn&#8217;t even come inside a case (you have to buy extra accessories separately, or buy a custom kit). Due to the small form factor. It does not have a lot of processing power, but this offers advantages like a low price, and low power consumption. All this makes it perfect to use it in education, electronics, clustering or embedded projects.
 </p><figure id="attachment_1103" aria-describedby="caption-attachment-1103" style="width: 548px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-1103" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/01/Pi2ModB1GB_-comp.jpeg" alt="Yes, that is the whole thing." width="548" height="300" /> <figcaption id="caption-attachment-1103" class="wp-caption-text">Yes, that is the whole thing.</figcaption></figure> 
+<img class="size-full wp-image-1103" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/Pi2ModB1GB_-comp.jpeg" alt="Yes, that is the whole thing." width="548" height="300" /> <figcaption id="caption-attachment-1103" class="wp-caption-text">Yes, that is the whole thing.</figcaption></figure> 
 
 <p style="text-align: justify;">
       After thinking a couple of minutes about what to do with it, I choose two initial projects: OpenELEC and RetroPie. The Ultimate kit comes with an 8GB micro-SD card that comes pre-installed with &#8220;<a href="https://www.raspberrypi.org/help/noobs-setup/" target="_blank">NOOBS</a>&#8221; (New Out Of the Box Software), an utility that installs Raspbian into the same micro-SD card so you are good to play with it. One of the best things with Raspberries is that you can switch micro-SD cards to instantly have a new OS or set of tools. So, I went ahead and bought two 32GB micro-SD cards.
 </p>
 
 <p style="text-align: justify;">
-  <img class="aligncenter  wp-image-1099" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/01/raspbian.png" alt="raspbian" width="157" height="157" />
+  <img class="aligncenter  wp-image-1099" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/raspbian.png" alt="raspbian" width="157" height="157" />
 </p>
 
 <p style="text-align: justify;">
@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img class="aligncenter size-full wp-image-1102" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/01/openelec.png" alt="openelec" width="242" height="69" />
+  <img class="aligncenter size-full wp-image-1102" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/openelec.png" alt="openelec" width="242" height="69" />
 </p>
 
 <p style="text-align: justify;">
@@ -44,7 +44,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img class="aligncenter  wp-image-1100" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2016/01/retropie.png" alt="retropie" width="169" height="226" />
+  <img class="aligncenter  wp-image-1100" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2016/01/retropie.png" alt="retropie" width="169" height="226" />
 </p>
 
 <p style="text-align: justify;">

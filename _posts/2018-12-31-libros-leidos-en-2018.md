@@ -20,7 +20,7 @@ responsive_meta_box_text_linkedin:
 categories:
   - Review
 tags:
-  - español
+  - spanish
   - libros
   - reviews
 ---
@@ -31,7 +31,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-2402 aligncenter" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/sirens.jpg" alt="" width="200" height="306" />
+  <img class="size-full wp-image-2402 aligncenter" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/sirens.jpg" alt="" width="200" height="306" />
 </p>
 
 <p style="text-align: center;">
@@ -97,7 +97,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2400" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/outliers4.jpg" alt="" width="200" height="301" />
+  <img class="aligncenter size-full wp-image-2400" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/outliers4.jpg" alt="" width="200" height="301" />
 </p>
 
 <p style="text-align: center;">
@@ -135,7 +135,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2395" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/game_feel.jpg" alt="" width="200" height="247" />
+  <img class="aligncenter size-full wp-image-2395" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/game_feel.jpg" alt="" width="200" height="247" />
 </p>
 
 <p style="text-align: center;">
@@ -157,7 +157,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2398" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/man-s-search-for-meaning.jpg" alt="" width="200" height="323" />
+  <img class="aligncenter size-full wp-image-2398" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/man-s-search-for-meaning.jpg" alt="" width="200" height="323" />
 </p>
 
 <p style="text-align: center;">
@@ -183,7 +183,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2391" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/ashort.jpg" alt="" width="200" height="302" />
+  <img class="aligncenter size-full wp-image-2391" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/ashort.jpg" alt="" width="200" height="302" />
 </p>
 
 <p style="text-align: center;">
@@ -209,7 +209,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2399" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/onwriting.jpg" alt="" width="200" height="302" />
+  <img class="aligncenter size-full wp-image-2399" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/onwriting.jpg" alt="" width="200" height="302" />
 </p>
 
 <p style="text-align: center;">
@@ -223,7 +223,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2403" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/thetippingpoint.jpg" alt="" width="200" height="297" />
+  <img class="aligncenter size-full wp-image-2403" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/thetippingpoint.jpg" alt="" width="200" height="297" />
 </p>
 
 <p style="text-align: center;">
@@ -251,7 +251,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2390" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/Apollo-8-Cover-GalleyCat.jpg" alt="" width="200" height="302" />
+  <img class="aligncenter size-full wp-image-2390" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/Apollo-8-Cover-GalleyCat.jpg" alt="" width="200" height="302" />
 </p>
 
 <p style="text-align: center;">
@@ -273,7 +273,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2392" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/astrop.jpg" alt="" width="200" height="267" />
+  <img class="aligncenter size-full wp-image-2392" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/astrop.jpg" alt="" width="200" height="267" />
 </p>
 
 <p style="text-align: center;">
@@ -287,7 +287,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2396" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/influence_Robert-Cialdini.jpg" alt="" width="200" height="302" />
+  <img class="aligncenter size-full wp-image-2396" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/influence_Robert-Cialdini.jpg" alt="" width="200" height="302" />
 </p>
 
 <p style="text-align: center;">
@@ -305,7 +305,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2397" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/learning-docker-book-cover.jpg" alt="" width="200" height="246" />
+  <img class="aligncenter size-full wp-image-2397" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/learning-docker-book-cover.jpg" alt="" width="200" height="246" />
 </p>
 
 <p style="text-align: center;">
@@ -319,7 +319,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2394" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/economics.jpg" alt="" width="200" height="300" />
+  <img class="aligncenter size-full wp-image-2394" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/economics.jpg" alt="" width="200" height="300" />
 </p>
 
 <p style="text-align: center;">
@@ -337,7 +337,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2401" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/Rama_copy.jpg" alt="" width="200" height="301" />
+  <img class="aligncenter size-full wp-image-2401" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/Rama_copy.jpg" alt="" width="200" height="301" />
 </p>
 
 <p style="text-align: center;">
@@ -355,7 +355,7 @@ tags:
 * * *
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-2393" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2018/12/Campbell-Hero-Thousand-Faces-cover.jpg" alt="" width="200" height="309" />
+  <img class="aligncenter size-full wp-image-2393" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2018/12/Campbell-Hero-Thousand-Faces-cover.jpg" alt="" width="200" height="309" />
 </p>
 
 <p style="text-align: center;">

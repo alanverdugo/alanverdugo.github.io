@@ -10,14 +10,14 @@ permalink: /blog/ny2
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - travel
 ---
 <p style="text-align: center;">
   (La primera parte está <a href="http://www.kippel.net/blog/?p=866" target="_blank">aquí</a>.)
 </p><figure id="attachment_891" aria-describedby="caption-attachment-891" style="width: 457px" class="wp-caption alignright">
 
-<img class=" wp-image-891" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/09/CAM00541.jpg" alt="Beacon, NY." width="457" height="609" /> <figcaption id="caption-attachment-891" class="wp-caption-text">Hay muchos paisajes interesantes fuera de la ciudad.</figcaption></figure> 
+<img class=" wp-image-891" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/09/CAM00541.jpg" alt="Beacon, NY." width="457" height="609" /> <figcaption id="caption-attachment-891" class="wp-caption-text">Hay muchos paisajes interesantes fuera de la ciudad.</figcaption></figure> 
 
 <p style="text-align: justify;">
       De camino al hotel me sorprendió mucho ver la vegetación tan densa que hay en el estado de New York. Cuando pienso en New York, pienso en las Tortugas Ninja y en Spider-man. Las otras personas piensan en edificios, calles, hot dogs y contaminación. Pero nadie piensa en los ambientes tan naturales que están tan cerca de la ciudad y prácticamente nunca aparecen en los medios, lo cual es una verdadera lástima pues a mi parecer son un atractivo visual mucho más interesante que cualquier playa u otros destinos vacacionales clásicos.
@@ -39,12 +39,12 @@ tags:
       Manhattan es el centro de todo aquí. Central Park, Times Square, Rockefeller Plaza, el Empire State Building, Broadway, Fifth Avenue, y la gran mayoría de museos y tiendas interesantes están aquí. Sin mencionar la estatua de la libertad, que está en Ellis Island, muy cerca de Manhattan.
 </p><figure id="attachment_887" aria-describedby="caption-attachment-887" style="width: 480px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-887" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/09/comingtoamerica-blog480.jpg" alt="Así llegamos a Brooklyn." width="480" height="238" /> <figcaption id="caption-attachment-887" class="wp-caption-text">Así llegamos a Brooklyn.</figcaption></figure> 
+<img class="size-full wp-image-887" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/09/comingtoamerica-blog480.jpg" alt="Así llegamos a Brooklyn." width="480" height="238" /> <figcaption id="caption-attachment-887" class="wp-caption-text">Así llegamos a Brooklyn.</figcaption></figure> 
 
 <p style="text-align: justify;">
       También pasamos unos (horribles) momentos en Brooklyn. No puedo hablar sobre todo Brooklyn, pero la parte en la que pasamos caminando, era el más ghetto de los ghettos que he visto. He pasado de noche por colonias mexicanas de muy mala fama y no fue sino hasta ese momento que realmente me preocupé. Sin mencionar que andábamos por la calle con maletas, laptops, smartphones, visas, pasaportes, dinero en efectivo y cara de &#8220;no soy de aquí y estoy totalmente perdido&#8221;. Pasamos frente a una estación de policía y nos preguntaron si estábamos perdidos (la pregunta más retórica que me han hecho en mi vida). De nueva cuenta, no los aburriré con los detalles del milagroso escape.
 </p><figure id="attachment_888" aria-describedby="caption-attachment-888" style="width: 506px" class="wp-caption aligncenter">
 
-<img class=" wp-image-888" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/09/america.jpg" alt="Así salimos de Brooklyn." width="506" height="344" /> <figcaption id="caption-attachment-888" class="wp-caption-text">Así salimos de Brooklyn.</figcaption></figure> 
+<img class=" wp-image-888" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/09/america.jpg" alt="Así salimos de Brooklyn." width="506" height="344" /> <figcaption id="caption-attachment-888" class="wp-caption-text">Así salimos de Brooklyn.</figcaption></figure> 
 
 <p style="text-align: justify;">

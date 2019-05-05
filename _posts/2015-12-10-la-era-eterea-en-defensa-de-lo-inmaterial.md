@@ -10,11 +10,11 @@ permalink: /blog/era-eterea
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - libros
 ---
 <p style="text-align: justify;">
-  <img class="aligncenter size-full wp-image-1041" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/12/blame_057x.jpg" alt="blame_057x" width="399" height="184" />
+  <img class="aligncenter size-full wp-image-1041" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/blame_057x.jpg" alt="blame_057x" width="399" height="184" />
 </p>
 
 <p style="text-align: justify;">
@@ -57,7 +57,7 @@ tags:
       Como alguien que se ha mudado más de diez veces en menos de treinta años, debo agradecer las cualidades inmateriales de los productos electrónicos. La facilidad de poder transportar miles o incluso millones de libros, canciones, películas o videojuegos en un dispositivo que cabe en mi mano es algo futurísticamente maravilloso. El hecho de poder copiar algo tantas veces como se desee sin ningún tipo de pérdida en la calidad de sus contenidos, es algo muy útil y apreciado. Esto también me otorga una nueva libertad: poder mudarme al otro lado del mundo sin sentirme frenado por mis posesiones materiales.
 </p><figure id="attachment_1043" aria-describedby="caption-attachment-1043" style="width: 301px" class="wp-caption alignright">
 
-<img class="size-full wp-image-1043" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/12/blame_060z.jpg" alt="El capítulo donde esto ocurre es atinadamente llamado &quot;Memories of The Earth&quot;." width="301" height="503" /> <figcaption id="caption-attachment-1043" class="wp-caption-text">El capítulo donde esto ocurre es atinadamente llamado &#8220;Memories of The Earth&#8221;.</figcaption></figure> 
+<img class="size-full wp-image-1043" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/blame_060z.jpg" alt="El capítulo donde esto ocurre es atinadamente llamado &quot;Memories of The Earth&quot;." width="301" height="503" /> <figcaption id="caption-attachment-1043" class="wp-caption-text">El capítulo donde esto ocurre es atinadamente llamado &#8220;Memories of The Earth&#8221;.</figcaption></figure> 
 
 <p style="text-align: justify;">
       En <em><a href="https://es.wikipedia.org/wiki/BLAME!" target="_blank">Blame!</a></em>, un manga cyberpunk escrito por Tsutomu Nihei, unos viajeros en un futuro distante encuentran un libro podrido y casi deshecho. Confundidos por nunca haber visto algo así, sólo pueden identificarlo como &#8220;un respaldo impreso&#8221;. Esto plantea otra ventaja exclusiva de los medios electrónicos: La capacidad de ser almacenados por indeterminadamente largos periodos de tiempo de una manera segura y fiable. De hecho, esta misma ventaja podría llegar a ser una desventaja. Al guardar todo, o la mayoría de contenido generado, el promedio de la calidad bajará drásticamente y terminaremos almacenando una obra de Shakespeare por cada 1000 libros de <a href="https://es.wikipedia.org/wiki/Vogon#Poes.C3.ADa" target="_blank">poesía Vogona</a>. Es decir, en un futuro donde todo es almacenado y accesible instantáneamente, seguramente será difícil encontrar algo de calidad entre un mar de basura mediática, y la popularidad no va a ayudar a filtrar lo bueno de lo malo, como la industria musical nos comprueba todos los días.
@@ -71,4 +71,4 @@ tags:
       Ahora entiendo que la culpa que sentí al comprar aquel libro también tenía que ver con &#8220;malgastar&#8221; recursos naturales en un pasatiempo. O tal vez era un poco de nostalgia y tristeza por ver, y ser partícipe, del final de una era.
 </p>
 
-<img class="aligncenter size-full wp-image-1042" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2015/12/blame_057y.jpg" alt="blame_057y" width="398" height="326" />
+<img class="aligncenter size-full wp-image-1042" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2015/12/blame_057y.jpg" alt="blame_057y" width="398" height="326" />

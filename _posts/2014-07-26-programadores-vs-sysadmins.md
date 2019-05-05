@@ -10,7 +10,7 @@ permalink: /blog/programadores-sysadmins
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - IT
 ---
 <p style="text-align: justify;">
@@ -37,7 +37,7 @@ tags:
       Muchos piensan que, por ejemplo, ser project manager, o tester, es para gente floja. Todas esas son concepciones erróneas que uno se va formando a través de su carrera.
 </p><figure id="attachment_572" aria-describedby="caption-attachment-572" style="width: 160px" class="wp-caption alignright">
 
-[<img class="size-full wp-image-572" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/07/SysAdmin_Vertical160x600.jpg" alt="Sutil imagen encontrada en sysadminday.com" width="160" height="600" />](http://sysadminday.com)<figcaption id="caption-attachment-572" class="wp-caption-text">Sutil imagen encontrada en sysadminday.com</figcaption></figure> 
+[<img class="size-full wp-image-572" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/07/SysAdmin_Vertical160x600.jpg" alt="Sutil imagen encontrada en sysadminday.com" width="160" height="600" />](http://sysadminday.com)<figcaption id="caption-attachment-572" class="wp-caption-text">Sutil imagen encontrada en sysadminday.com</figcaption></figure> 
 
 <p style="text-align: justify;">
       Los administradores de sistemas -o &#8220;sysadmins&#8221;- son los héroes anónimos por excelencia. Tristemente, la persona promedio no tiene ni idea de su existencia. Toda nuestra infraestructura de IT -y por lo tanto la gran mayoría de cosas automatizadas del mundo- dependen de ellos. Sin embargo, las veces que me atreví a identificarme como un &#8220;Administrador de sistemas&#8221;, la gente común asumió que había estudiado administración de empresas y que era el gerente de algún equipo relacionado, de alguna manera, con computadoras. No me sorprendería que un &#8220;servidor&#8221; se entendiera como algún tipo de mesero elegante.
@@ -71,7 +71,7 @@ tags:
       Durante el pasado &#8220;sysadmin day&#8221; vi que alguien compartió la siguiente imagen:
 </p><figure id="attachment_571" aria-describedby="caption-attachment-571" style="width: 817px" class="wp-caption aligncenter">
 
-<img class="size-full wp-image-571" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2014/07/sysad.jpeg" alt="teoría egocéntrica." width="817" height="441" /> <figcaption id="caption-attachment-571" class="wp-caption-text">Teoría egocéntrica.</figcaption></figure> 
+<img class="size-full wp-image-571" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2014/07/sysad.jpeg" alt="teoría egocéntrica." width="817" height="441" /> <figcaption id="caption-attachment-571" class="wp-caption-text">Teoría egocéntrica.</figcaption></figure> 
 
 <p style="text-align: justify;">
       Al principio me hizo reír pero después me sentí hasta cierto punto triste por ella. Se muestran a los sysadmins como la piedra angular en la que recae toda la compañía, como si fueran la única pieza importante e indispensable. Después de todo, una imagen así no hace más que despreciar el esfuerzo y trabajo que las demás profesiones realizan. De hecho, otras posiciones indispensables para una compañía son totalmente ignoradas en tal imagen. ¿Donde están los ejecutivos de ventas? ¿y la gente de mantenimiento? ¿los de limpieza? al parecer su existencia y su trabajo son tan poco importantes que ni siquiera son plasmados en esta burla gráfica. Una imagen más realista sería un circulo donde se representen a todas y cada una de las posiciones de la empresa con flechas apuntando de unos a otros, porque esa es la realidad de la vida: todos necesitamos de todos.

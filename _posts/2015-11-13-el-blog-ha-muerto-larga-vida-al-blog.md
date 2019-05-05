@@ -10,7 +10,7 @@ permalink: /blog/blog-muerto
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - nonsense
 ---
 <p style="text-align: justify;">

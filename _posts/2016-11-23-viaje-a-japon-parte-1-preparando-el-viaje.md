@@ -10,7 +10,7 @@ permalink: /blog/japon1
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - travel
 ---
 <p style="text-align: center;">

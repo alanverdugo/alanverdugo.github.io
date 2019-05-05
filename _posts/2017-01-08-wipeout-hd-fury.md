@@ -14,7 +14,7 @@ tags:
   - games
   - reviews
 ---
-<img class="alignright size-full wp-image-1887" src="http://li106-124.members.linode.com/blog/wp-content/uploads/2017/01/wipeout-hd-fury-cover.jpg" alt="" width="260" height="300" />Title: **WipEout HD / Fury.**
+<img class="alignright size-full wp-image-1887" src="https://github.com/alanverdugo/alanverdugo.github.io/tree/master/wp-content/uploads/2017/01/wipeout-hd-fury-cover.jpg" alt="" width="260" height="300" />Title: **WipEout HD / Fury.**
 
 Development: **Sony Studio Liverpool.**
 

@@ -10,7 +10,7 @@ permalink: /blog/ms-sql-server-linux
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
   - IT
   - Technical writing
 ---
