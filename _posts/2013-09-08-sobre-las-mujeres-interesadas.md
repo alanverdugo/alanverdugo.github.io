@@ -10,7 +10,7 @@ permalink: /blog/mujeres-interesadas
 categories:
   - Uncategorized
 tags:
-  - español
+  - spanish
 ---
 <p style="text-align: justify;">
   El otro día tuve una revelación. Por fin comprendí la razón por la cuál hay tantas &#8220;mujeres interesadas&#8221;.
