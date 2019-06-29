@@ -1,0 +1,103 @@
+<div class="sidebar ">
+  <h2>Recent Posts</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="sidebar">
+  <h2>Tags</h2>
+  <ul class="sideBarTags">
+    {% assign tags = (site.tags | sort:0) %}
+    {% for tag in tags %}
+    <li>
+      <a href="{{ '/tag/' | append: tag[0] | relative_url }}" data-toggle="tooltip" data-placement="right" title="{{ tag[1].size }}">
+        <span>{{tag[0] }}</span></a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="sidebar">
+  <h2>Allies</h2>
+  <ul>
+    <li>
+      <a href="http://fuckyeahavena.tumblr.com/" data-toggle="tooltip" data-placement="right" title="Avena tumblr">
+        <span>Avena tumblr</span></a>
+    </li>
+    <li>
+      <a href="https://tarahumaritainjapan.tumblr.com/" data-toggle="tooltip" data-placement="right" title="Avena gaijin">
+        <span>Tarahumarita in Japan</span></a>
+    </li>
+    <li>
+      <a href="http://toxickore.blogspot.mx/" data-toggle="tooltip" data-placement="right" title="Toxickore">
+        <span>Emerson's</span></a>
+    </li>
+    <li>
+      <a href="http://doncyr.wordpress.com/" data-toggle="tooltip" data-placement="right" title="Filosofía">
+        <span>Militarizando al Cyrus</span></a>
+    </li>
+    <li>
+      <a href="https://brianasz.com/" data-toggle="tooltip" data-placement="right" title="Briana">
+        <span>Briana</span></a>
+    </li>
+    <li>
+      <a href="https://elavena.mx/" data-toggle="tooltip" data-placement="right" title="Avena #1">
+        <span>Avena blog</span></a>
+    </li>
+  </ul>
+</div>
+
+<div class="sidebar">
+  <h2>Noble causes</h2>
+  <ul>
+    <li>
+      <a href="http://wikimediafoundation.org/wiki/Donate" data-toggle="tooltip" data-placement="right" title="Wikimedia foundation">
+        <span>Wikimedia foundation</span></a>
+    </li>
+    <li>
+      <a href="https://my.fsf.org/donate/" data-toggle="tooltip" data-placement="right" title="FSF">
+        <span>Free Software Foundation</span></a>
+    </li>
+    <li>
+      <a href="https://supporters.eff.org/donate/join-4" data-toggle="tooltip" data-placement="right" title="EFF">
+        <span>Electronic Frontier Foundation</span></a>
+    </li>
+    <li>
+      <a href="https://support.worldwildlife.org/site/SPageServer?pagename=donate_to_charity" data-toggle="tooltip" data-placement="right" title="WWF">
+        <span>World Wildlife Fund</span></a>
+    </li>
+    <li>
+      <a href="http://academictorrents.com/give/" data-toggle="tooltip" data-placement="right" title="Institute for Reproducible Research">
+        <span>Academic torrents</span></a>
+    </li>
+    <li>
+      <a href="https://www.kidsoncomputers.org/get-involved" data-toggle="tooltip" data-placement="right" title="Kids on computers">
+        <span>Kids on computers</span></a>
+    </li>
+    <li>
+      <a href="https://donate.mozilla.org/en-US/?test=nst&test=htl" data-toggle="tooltip" data-placement="right" title="moz://a">
+        <span>Mozilla foundation</span></a>
+    </li>
+    <br><iframe src="https://www.worldcommunitygrid.org/getDynamicImage.do?memberName=alanverdugo&mnOn=true&stat=3&imageNum=4&rankOn=false&projectsOn=false&special=true&link=1&memberId=946192" frameborder="0" name="di" scrolling="no" width="125px" height="176px"></iframe>
+  </ul>
+</div>
+
+<div class="sidebar">
+  <h2>Currently reading</h2>
+  <ul>
+    <li>
+      A dance with dragons, by George R. R. Martin.
+    </li>
+  </ul>
+</div>
+
+<div class="sidebar">
+  <h2>Currently playing</h2>
+  <ul>
+    <li>
+      Contra 4 (DS)
+    </li>
+  </ul>
+</div>
