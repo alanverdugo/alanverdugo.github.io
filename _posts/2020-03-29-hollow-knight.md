@@ -14,8 +14,8 @@ tags:
   - games
   - reviews
 ---
-<p style="text-align: justify;">
-  <img class="alignright" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/cover.png" alt="Hollow Knight" width="237" height="213" />
+<p style="text-align: center;">
+  <img class="alignright" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/cover.png" alt="Hollow Knight" width="368" height="669" />
 </p>
 
 <p style="text-align: justify;">
@@ -56,7 +56,9 @@ tags:
       However, it is all worth it. <em>Hollow Knight</em> rewards that effort and frustration with beautiful hand-drawn art and equally amazing music that, together, create an inspiring and mesmerizing adventure. There were moments in which I just dropped the controller and stared and the screen, often accompanied by one of the many lovable characters that invited me to just sit and calmly enjoy the scenery with them.
 </p>
 
-<img class=" wp-image-414" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/quirrel.jpg" alt="The blue lake." width="414" height="231" />
+<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/quirrel.jpg">
+    <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/quirrel.jpg" alt="The blue lake." />
+</a>
 
 <p style="text-align: justify;">
       The story of both Hallownest and the protagonist are deliberately kept mysterious and vague. Some of it is hinted during the game's progression, but most of it is left to the interpretation of the player. However, there is a unforgettable charm and a inherent sadness in the tragic bug-hero armed with a nail, the ruined insect kingdom, the duality of darkness and light, and radiance and shadow that sets this game apart of everything I've played.
