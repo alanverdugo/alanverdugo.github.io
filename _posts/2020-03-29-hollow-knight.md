@@ -15,7 +15,7 @@ tags:
   - reviews
 ---
 <p style="text-align: center;">
-  <img class="alignright" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/cover.png" alt="Hollow Knight" width="368" height="669" />
+  <img class="alignright" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/cover.png" alt="Hollow Knight" width="268" height="500" />
 </p>
 
 <p style="text-align: justify;">
@@ -46,8 +46,9 @@ tags:
         I must say that at first I was not interested in playing <em>Hollow Knight</em>. To me, it just seemed like a cheap indie copy of <em>Metroid</em>, but with a darker tone. Thankfully, I gave it a chance and it quickly showed how wrong I was. The hype behind this game is very well deserved. In fact, I would say that <em>Hollow Knight</em> is not as praised as it should, and may still be categorized as a "hidden gem". If I had to describe <em>Hollow Knight</em> in a single sentence, I would say that it is a Metroidvania that has extracted and applied the best aspects from some of the most beloved video game series, including Zelda, Megaman X, Dark Souls, and obviously Metroid and Castlevania. The ridiculous amount of content it has, and the fact that most of it was done by three guys as their first real game, is simply astounding.
 </p>
 
-<img class=" wp-image-414" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/sheo.png" alt="Nailmaster." width="414" height="231" />
-
+<a href="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/sheo.png">
+    <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/sheo.png" alt="Nailmaster."/>
+</a>
 <p style="text-align: justify;">
       <em>Hollow Knight</em> is not easy, and is not afraid to mop the floor with your face if you give it the slightest change. Casual gamers will be discouraged by this, and I must say even when I love hard games like Contra, Ninja Gaiden, Megaman Zero and the Souls series, I too became frustrated with some boss fights. Some of these fights are absolutely brutal, and once you think that it is all over, the game gets twice as hard. The game does not hold your hand in any moment, and also hides its secrets very well. Sometimes these secrets are just extra characters or extra dialog, but sometimes, they are needed for advancing the plot, and again, novice players will be frustrated by this. There are also many extra challenges that are focused on boss battles and game modes that offer other new brutal ways of playing the game.
 </p>
