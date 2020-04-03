@@ -15,7 +15,7 @@ tags:
   - reviews
 ---
 <p style="text-align: center;">
-  <img class="alignright" src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/cover.png" alt="Hollow Knight" width="268" height="500" />
+  <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/hollow_knight/cover.png" alt="Hollow Knight" width="300" height="486" />
 </p>
 
 <p style="text-align: justify;">
