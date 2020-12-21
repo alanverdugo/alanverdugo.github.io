@@ -5,7 +5,8 @@ rvm:
 install:
   - "gem update --system"
   - "gem install bundler"
-  - "bundler update --bundler"
+  - "bundler update"
+  #- "bundler update --bundler"
 
 script:
   - "bundle exec jekyll build"
