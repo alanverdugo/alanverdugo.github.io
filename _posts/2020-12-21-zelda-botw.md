@@ -10,10 +10,12 @@ categories:
   - Review
 tags:
   - english
+  - games
+  - reviews
 ---
 
 <p style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/zelda-botw/cover.png" alt="The legend of Zelda: Breath of the Wild" width="300" height="486" />
+  <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/zelda-botw/cover.jpg" alt="The legend of Zelda: Breath of the Wild" width="300" height="486" />
 </p>
 
 **Publisher:** Nintendo EPD
@@ -57,7 +59,7 @@ tags:
     <br>
     <i>An inviting geography, but dull colors.</i>
     <br>
-    <i>Picture taken from <a  href=http://www.ateijelo.com/blog/2017/06/24/botw-panoramas>ateijelo.com/blog/2017/06/24/botw-panoramas</a></i>
+    <i>Picture taken from <a href=http://www.ateijelo.com/blog/2017/06/24/botw-panoramas>ateijelo.com/blog/2017/06/24/botw-panoramas</a></i>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;I would have never thought I would say this, but the music in this Zelda game is quite disappointing. It is obvious that it was composed specifically for the exact game they wanted to create-A minimalist soundtrack that lets you focus on the environment and attempts to distract you as little as possible. However, this results in empty periods were only the sounds of nature are heard (which I enjoyed) and suddenly some sharp notes are heard without any context only to disappear again. As strange as it may sound (pun intended), I would have preferred to have no music at all and fully immerse in the eponymous wilderness of the game and its ambience. Critics would have been harsh against a game with no music (specially a Zelda game, with its rich interconnection with music), but I firmly believe this would have been the right choice in this case.
