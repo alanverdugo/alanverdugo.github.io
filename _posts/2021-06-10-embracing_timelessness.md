@@ -1,3 +1,16 @@
+---
+id: 2388
+title: Embracing timelessness
+date: 2021-06-10T11:21:36-05:00
+author: Alan Verdugo
+layout: post
+guid: http://www.kippel.net/blog/?p=2388
+permalink: /blog/embracing-timelessness
+tags:
+  - english
+  - nonsense
+---
+
 # Embracing timelessness
 
 I have always been an advocate for progress in technology. To me, old tech becomes basically useless the moment a new alternative appears. Why would somebody prefer to use a typewriter when we have computers and text editors? Why would somebody prefer to listen to a vinyl record when we have lossless digital audio?
