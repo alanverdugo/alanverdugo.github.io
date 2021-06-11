@@ -14,7 +14,9 @@ Recently, I was given a marvelous gift which challenged my perception and made m
 
 I was given a [Rockwell 6S razor](https://getrockwell.com/products/rockwell-6s), which is one of the most recommended products for those trying to stop using the omnipresent multi-blade disposable razors. Not only is this a beautiful tool, but the Rockwell company provided a great customer service by sending another package when we informed them the first one was lost in the horrendous mexican postal service, as we sadly expected.
 
-![Image by Rockwell](embracing_timelessness/rockwell-jet-black-6s.png "Image by Rockwell")
+![Image by Rockwell](https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/embracing_timelessness/rockwell-jet-black-6s.png "Image by Rockwell")
+
+*Image by Rockwell*
 
 Using this kind of razor is quite different to the newest alternatives. It uses the old school blades, which means less plastic goes to the landfills, but you also have to *learn* to use it.
 
