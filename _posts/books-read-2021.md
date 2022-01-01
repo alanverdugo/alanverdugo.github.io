@@ -1,0 +1,113 @@
+---
+id: 2386
+title: Books read in 2021
+date: 2021-12-31T11:21:36-05:00
+author: Alan Verdugo
+layout: post
+guid: http://www.kippel.net/blog/?p=2386
+permalink: /?p=2386
+categories:
+  - Review
+tags:
+  - english
+  - books
+---
+
+The last day of 2021 brings hope for the end of the pandemic but it also brings fear that this hope stays as a simple dream for yet another year. A couple of the books I read this year talk about the way sickness and plagues have shaped human history.
+
+<p align="center"> 
+    <img src="books2021/01-salt.jpeg" width="250" height="400">
+</p>
+
+**01 - *Salt: A world history*, by Mark Kurlansky.**
+
+Salt is the only rock that humans ingest. It is also needed for sustenance and has been intertwined with human history in many ways. Governments have used it to control subjects, to manipulate wars, and, of course, to create new taxes.
+
+Salt is obviously important for human societies, and has been related to very interesting historical events, but the same could be said about other spices, like pepper, or ingredients like fish, bread, rice or, of course, water. The point here is, this book is not necessarily about salt, but about the human context surrounding it.
+
+Sometimes the book moves away from its subject and ends up discussing topics that are barely related to salt, so the book feels disconnected and without a clear direction.
+
+While the book does have some very interesting passages, I would have preferred it to be shorter and more focused on those topics, instead of deviating to ancient recipes of cod and gigantic cakes.
+
+---
+
+<p align="center"> 
+    <img src="books2021/02-homo_deus.jpg" width="250" height="400">
+</p>
+
+**02 - *Homo Deus: A brief history of tomorrow*, by Yuval Noah Harari.**
+
+After reading the amazing *Sapiens*, I was extremely compelled to read this book and I must say it was as interesting and thought provoking as I expected, or even more. Instead of reviewing history, now Harari offers a glimpse of the possibilities that humankind is facing during the 21st century and beyond.
+
+This is a realistic and serious glimpse to the inevitable cyberpunk future of the human race. A must read for anybody interested in futurism.
+
+---
+
+<p align="center"> 
+    <img src="books2021/03-the_ghost_map.jpg" width="250" height="400">
+</p>
+
+**03 - *The ghost map*, by Steven Johnson.**
+
+The unsanitary conditions of Victorian London were the perfect scenario for infections, sickness and death. Worsening that, there was the generally accepted idea that disease was transmitted by bad smells and other even more ridiculous ideas that made it harder to find and eradicate the root causes of epidemics.
+
+John Snow shattered the miasmatic dogma that inadvertently caused so many deaths by doing research and following logic. A true hero of his time, he also was a great anesthesiologist, who in fact helped in the delivery of Queen Victoria's son Leopold.
+
+A most admirable man, he proved that the truth can and should be found regardless of opposers or what the general opinion might be. Reading about his quest for the stopping the cholera epidemic was like reading a detective story, except it was much more interesting, exciting and inspiring because I knew this was a real story and that his actions saved and continue to save countless lives.
+
+This heroism should be enough for anybody to want to pay homage to Dr. Snow by at least reading about his life in this amazing book.
+
+The book ends with a serious and sobering warning about the possible epidemics and pandemics that the world could face, and the role that cities and population densities would play in them. It also offers a terrifying glimpse in the biologic characteristics of bacteria and viruses, which can quickly represent a serious threat to human health and even survival, specially if we continue to consume animal products and thus remain in direct contact with animal diseases. The author suggest that if our current consumption habits continue, we could face a worldwide pandemic very soon.
+
+If all this sounds familiar, keep in mind that this book was published in 2006.
+
+---
+
+<p align="center"> 
+    <img src="books2021/04-guns_germs_and_steel.jpg" width="250" height="400">
+</p>
+
+**04 - *Guns, germs and steel: The fates of human societies*, by Jared Diamond.**
+
+> Australia's 17,085,400 people thought so highly of sheep that they kept 161,600,000 of them.
+
+> All human societies contain inventive people. It's just that some environments provide more starting materials, and more favorable conditions for utilizing inventions, than do other environments.
+
+It is common knowledge that human history has been marked by death and war. However, there are other important factors that also have determined the way our society has evolved. Things like agriculture, the domestication of animals, the weather and the wildly different characteristics of seeds, fruits and vegetables. More importantly, geographic characteristics have promoted or reduced the prosperity of the different cultures.
+
+The thirst for new territories has destroyed and build entire civilizations, but even the devastating power of swords, armor and gunpowder pales in comparison to germs and plagues. Native americans felt forgotten by their deities when they witnessed that their people died in such horrible ways, but their enemies appeared to be immune to these mysterious diseases, which the natives labeled as curses. It really seemed like their gods switched sides and were helping the conquerors to destroy them.
+
+While profoundly interesting, Guns, Germs and Steel can often be a heavy and slow read which feels a college text book. Naturally, Diamond's theories also have their detractors, but regardless of that, it made me think in a global scale about the success and failures of societies instead of only trusting the tacitly accepted simplistic opinion of thinking about some societies being more motivated, more intelligent or less lazy than others. Just for that I would recommend this book to anybody interested in world history.
+
+Interestingly, this book was a direct influence to Yuval Noah Harari, according to himself. It was actually the book that prompted Harari to start writing books.
+
+---
+
+<p align="center"> 
+    <img src="books2021/05-economic_naturalist.jpeg" width="250" height="400">
+</p>
+
+**05 - *The economic naturalist - Why economics explains almost everything*, by Robert H. Frank.**
+
+In our society, the management of resources is key to survival. Economics is much more than finance and it does explain most of the erratic behavior than mankind has adopted over the ages.
+
+While this book is not a must read, it does offer an interesting perspective to untrained fellows who will be surprised of how many simple things in our lives are dictated by economics.
+
+This is the sort of book that offers a lot of icebreakers and makes you sound like a know-it-all at parties, so be careful.
+
+---
+
+<p align="center"> 
+    <img src="books2021/06-make_your_bed.jpg" width="250" height="400">
+</p>
+
+**06 - *Make your bed: Little things that can change your life... and maybe the world*, by William H. McRaven.**
+
+Short and to the point, just like a military man would write.
+
+You may not agree with different aspects of the military, armed conflict, or even US patriotism, but this books is not really about any of that. This is about the advice than a very experienced man can provide to new generations.
+
+Unfortunately, I think McRaven chose a subpar title for his book. It makes it sound like a cheap self-help booklet, and it is much more powerful than that.
+
+McRaven does have a way with words. The book is sad, but full of inspiring passages. This is one of the best books I read this year, and I would recommend it to anybody.
+
