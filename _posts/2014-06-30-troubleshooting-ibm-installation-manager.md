@@ -3,7 +3,6 @@ id: 542
 title: Troubleshooting IBM Installation Manager
 date: 2014-06-30T10:43:57-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=542
 permalink: /blog/troubleshooting-ibm-im
 #permalink: /?p=542

@@ -3,7 +3,6 @@ id: 2024
 title: Getting out of the maze with A star
 date: 2017-07-12T17:23:02-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2024
 permalink: /blog/maze
 #permalink: /?p=2024

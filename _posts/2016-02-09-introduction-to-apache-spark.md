@@ -3,7 +3,6 @@ id: 1024
 title: Introduction to Apache Spark
 date: 2016-02-09T15:40:28-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1024
 permalink: /blog/spark-introduction
 #permalink: /?p=1024

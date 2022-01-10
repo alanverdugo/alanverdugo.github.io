@@ -3,7 +3,6 @@ id: 50
 title: 'Web syndication: The most useful thing nobody uses.'
 date: 2016-06-19T00:42:17-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=50
 permalink: /blog/rss-useful
 #permalink: /?p=50

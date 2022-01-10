@@ -3,7 +3,6 @@ id: 377
 title: The power of the return code
 date: 2015-07-27T12:23:01-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=377
 permalink: /blog/return-code
 #permalink: /?p=377

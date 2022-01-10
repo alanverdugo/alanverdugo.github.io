@@ -3,7 +3,6 @@ id: 589
 title: Python examples
 date: 2014-08-28T19:36:02-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=589
 permalink: /blog/python-examples
 #permalink: /?p=589

@@ -3,7 +3,6 @@ id: 1596
 title: 'Viaje a Japón. Parte 3: Osaka y Kyoto.'
 date: 2016-11-23T22:29:54-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1596
 permalink: /blog/japon3
 #permalink: /?p=1596

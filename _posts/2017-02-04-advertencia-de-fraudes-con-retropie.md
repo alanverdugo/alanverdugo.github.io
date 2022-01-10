@@ -3,7 +3,6 @@ id: 1900
 title: Advertencia de fraudes con RetroPie
 date: 2017-02-04T17:29:53-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1900
 permalink: /blog/fraudes-retropie
 #permalink: /?p=1900

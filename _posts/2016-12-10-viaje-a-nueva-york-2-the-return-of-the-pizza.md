@@ -3,7 +3,6 @@ id: 1803
 title: 'Viaje a Nueva York 2: The return of the pizza.'
 date: 2016-12-10T18:53:14-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1803
 permalink: /blog/nyc2
 #permalink: /?p=1803

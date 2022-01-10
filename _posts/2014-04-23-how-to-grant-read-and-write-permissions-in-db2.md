@@ -3,7 +3,6 @@ id: 487
 title: How to grant read and write permissions in DB2
 date: 2014-04-23T12:14:25-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=487
 permalink: /blog/db2-permissions
 #permalink: /?p=487

@@ -3,7 +3,6 @@ id: 472
 title: El significado de los logros.
 date: 2014-04-11T23:46:58-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=472
 permalink: /blog/significado-logros
 #permalink: /?p=472

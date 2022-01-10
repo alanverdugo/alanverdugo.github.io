@@ -3,7 +3,6 @@ id: 1237
 title: Comptia Linux+ certification
 date: 2016-09-21T18:21:39-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1237
 permalink: /blog/comptia-linux
 #permalink: /?p=1237

@@ -3,7 +3,6 @@ id: 2088
 title: Portable Stream and Batch Processing with Apache Beam
 date: 2017-12-08T20:13:12-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2088
 permalink: /blog/beam
 #permalink: /?p=2088

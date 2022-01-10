@@ -3,7 +3,6 @@ id: 515
 title: Programadores vs. Sysadmins
 date: 2014-07-26T23:06:24-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=515
 permalink: /blog/programadores-sysadmins
 #permalink: /?p=515

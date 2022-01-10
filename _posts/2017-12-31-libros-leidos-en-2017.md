@@ -3,7 +3,6 @@ id: 1835
 title: Libros leídos en 2017
 date: 2017-12-31T15:39:51-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1835
 permalink: /blog/libros-2017
 #permalink: /?p=1835

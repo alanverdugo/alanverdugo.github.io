@@ -3,7 +3,6 @@ id: 6
 title: 'Review de "Gray hat hacking"'
 date: 2013-02-13T04:51:13-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=6
 permalink: /blog/gray-hat-review
 #permalink: /?p=6

@@ -3,7 +3,6 @@ id: 2045
 title: Probando Microsoft SQL Server en Linux
 date: 2017-08-18T13:13:33-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2045
 permalink: /blog/ms-sql-server-linux
 #permalink: /?p=2045

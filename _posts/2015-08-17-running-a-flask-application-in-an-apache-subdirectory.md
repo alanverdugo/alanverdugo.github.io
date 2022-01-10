@@ -3,7 +3,6 @@ id: 856
 title: Running a Flask application in an Apache subdirectory
 date: 2015-08-17T12:03:33-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=856
 permalink: /blog/flask-apache
 #permalink: /?p=856

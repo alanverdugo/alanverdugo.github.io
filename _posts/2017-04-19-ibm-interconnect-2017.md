@@ -3,7 +3,6 @@ id: 1929
 title: IBM Interconnect 2017
 date: 2017-04-19T18:03:19-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1929
 permalink: /blog/ibm-interconnect
 #permalink: /?p=1929

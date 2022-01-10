@@ -3,7 +3,6 @@ id: 1
 title: Influencias.
 date: 2013-02-04T03:58:45-05:00
 author: Alan Verdugo
-layout: post
 guid: http://li106-124.members.linode.com/blog/?p=1
 permalink: /?p=1
 suf_meta_keywords:

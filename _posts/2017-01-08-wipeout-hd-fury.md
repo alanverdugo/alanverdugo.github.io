@@ -3,7 +3,6 @@ id: 16
 title: WipEout HD / Fury
 date: 2017-01-08T20:19:15-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=16
 permalink: /blog/wipeout
 #permalink: /?p=16

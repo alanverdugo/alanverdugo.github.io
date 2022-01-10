@@ -3,7 +3,6 @@ id: 1079
 title: Installing and configuring a Hadoop cluster
 date: 2016-01-05T18:46:48-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1079
 permalink: /blog/hadoop-cluster
 #permalink: /?p=1079

@@ -3,7 +3,6 @@ id: 2387
 title: The Legend of Zelda - Breath of the Wild
 date: 2020-12-21T11:21:36-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2387
 permalink: /blog/zelda-botw
 categories:

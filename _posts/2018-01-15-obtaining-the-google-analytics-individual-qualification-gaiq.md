@@ -3,7 +3,6 @@ id: 2160
 title: Obtaining the Google Analytics Individual Qualification (GAIQ)
 date: 2018-01-15T23:06:19-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2160
 permalink: /blog/gaiq
 #permalink: /?p=2160

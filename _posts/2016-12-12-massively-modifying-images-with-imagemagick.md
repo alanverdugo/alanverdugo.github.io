@@ -3,7 +3,6 @@ id: 1838
 title: Massively modifying images with ImageMagick
 date: 2016-12-12T11:48:22-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1838
 permalink: /blog/image-magick
 #permalink: /?p=1838

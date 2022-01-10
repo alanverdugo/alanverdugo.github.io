@@ -3,7 +3,6 @@ id: 1094
 title: Introduction to Raspberry Pi, OpenELEC and RetroPie
 date: 2016-01-08T19:30:14-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1094
 permalink: /blog/raspberry-openelec
 #permalink: /?p=1094

@@ -3,7 +3,6 @@ id: 697
 title: Libros leidos en el 2015
 date: 2015-12-14T23:55:19-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=697
 permalink: /blog/libros-2015
 #permalink: /?p=697

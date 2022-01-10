@@ -3,7 +3,6 @@ id: 2136
 title: Libros leídos en 2018
 date: 2018-12-31T18:05:34-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2136
 permalink: /blog/libros-2018
 #permalink: /?p=2136

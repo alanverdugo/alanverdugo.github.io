@@ -3,7 +3,6 @@ id: 869
 title: Viaje a NY (segunda parte)
 date: 2015-09-16T14:17:57-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=869
 permalink: /blog/ny2
 #permalink: /?p=869

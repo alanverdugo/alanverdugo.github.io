@@ -3,7 +3,6 @@ id: 660
 title: Massive Open Online Courses and their impact on the educative system.
 date: 2014-12-04T09:30:42-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=660
 permalink: /blog/moocs
 #permalink: /?p=660

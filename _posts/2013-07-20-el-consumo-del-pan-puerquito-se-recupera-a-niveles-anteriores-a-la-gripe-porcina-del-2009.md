@@ -3,7 +3,6 @@ id: 202
 title: 'El consumo del pan puerquito se recupera a niveles anteriores a la gripe porcina del 2009'
 date: 2013-07-20T23:24:18-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=202
 permalink: /blog/pan-puerquito
 #permalink: /?p=202

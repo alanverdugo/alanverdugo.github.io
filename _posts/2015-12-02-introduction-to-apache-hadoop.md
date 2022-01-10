@@ -3,7 +3,6 @@ id: 1004
 title: Introduction to Apache Hadoop
 date: 2015-12-02T16:28:47-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1004
 permalink: /blog/hadoop-introduction
 #permalink: /?p=1004

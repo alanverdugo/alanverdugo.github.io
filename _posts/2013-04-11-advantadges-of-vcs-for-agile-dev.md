@@ -3,7 +3,6 @@ id: 56
 title: Advantages of version control systems for agile software development.
 date: 2013-04-11T12:07:17-05:00
 author: Alan Verdugo
-layout: post
 permalink: /blog/vcs-advamtages
 guid: http://www.kippel.net/blog/?p=56
 #permalink: /?p=56

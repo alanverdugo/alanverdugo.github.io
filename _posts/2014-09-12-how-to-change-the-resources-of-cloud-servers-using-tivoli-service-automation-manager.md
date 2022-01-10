@@ -3,7 +3,6 @@ id: 618
 title: How to change the resources of cloud servers using Tivoli Service Automation Manager
 date: 2014-09-12T11:42:40-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=618
 permalink: /blog/resources-tsam
 #permalink: /?p=618

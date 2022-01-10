@@ -3,7 +3,6 @@ id: 447
 title: Guanajuato/San Miguel de Allende (Febrero 2014)
 date: 2014-03-19T21:29:12-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=447
 permalink: /blog/guanajuato
 #permalink: /?p=447

@@ -3,7 +3,6 @@ id: 636
 title: Contributing to noble causes using BOINC and the World Community Grid
 date: 2014-10-03T11:10:29-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=636
 permalink: /blog/boinc-community-grid
 #permalink: /?p=636

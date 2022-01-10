@@ -3,7 +3,6 @@ id: 1592
 title: 'Viaje a Japón. Parte 1: Preparando el viaje.'
 date: 2016-11-23T22:24:12-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1592
 permalink: /blog/japon1
 #permalink: /?p=1592

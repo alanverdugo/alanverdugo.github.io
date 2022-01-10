@@ -3,7 +3,6 @@ id: 866
 title: Viaje a NY (primera parte)
 date: 2015-08-22T21:24:58-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=866
 permalink: /blog/ny1
 #permalink: /?p=866

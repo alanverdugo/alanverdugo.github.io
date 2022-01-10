@@ -3,7 +3,6 @@ id: 1032
 title: 'La era etérea: En defensa de lo inmaterial'
 date: 2015-12-10T12:36:05-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1032
 permalink: /blog/era-eterea
 #permalink: /?p=1032

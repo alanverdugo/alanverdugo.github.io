@@ -3,7 +3,6 @@ id: 2124
 title: Correlations between ruling political parties and journalist assassinations
 date: 2017-12-11T22:48:31-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2124
 permalink: /blog/journalist-deaths
 #permalink: /?p=2124

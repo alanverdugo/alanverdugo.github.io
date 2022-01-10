@@ -3,7 +3,6 @@ id: 790
 title: Radiant historia
 date: 2015-10-29T16:22:34-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=790
 permalink: /blog/radiant-historia
 #permalink: /?p=790

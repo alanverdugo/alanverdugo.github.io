@@ -3,7 +3,6 @@ id: 1964
 title: Trip to Las Vegas
 date: 2017-06-14T23:15:43-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1964
 permalink: /blog/vegas
 #permalink: /?p=1964

@@ -3,7 +3,6 @@ id: 223
 title: 'Sobre las "mujeres interesadas"'
 date: 2013-09-08T18:37:14-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=223
 permalink: /blog/mujeres-interesadas
 #permalink: /?p=223

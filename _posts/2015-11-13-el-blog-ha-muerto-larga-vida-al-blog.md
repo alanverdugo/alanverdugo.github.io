@@ -3,7 +3,6 @@ id: 982
 title: El blog ha muerto, ¡larga vida al blog!
 date: 2015-11-13T12:11:22-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=982
 permalink: /blog/blog-muerto
 #permalink: /?p=982

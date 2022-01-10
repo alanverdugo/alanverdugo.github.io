@@ -3,7 +3,6 @@ id: 2017
 title: DevOps crash course at Wizeline
 date: 2017-07-04T10:37:08-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2017
 permalink: /blog/devops-wizeline
 #permalink: /?p=2017

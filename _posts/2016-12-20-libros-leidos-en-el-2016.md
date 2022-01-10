@@ -3,7 +3,6 @@ id: 1066
 title: Libros leídos en el 2016
 date: 2016-12-20T11:35:52-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1066
 permalink: /blog/libros-2016
 #permalink: /?p=1066

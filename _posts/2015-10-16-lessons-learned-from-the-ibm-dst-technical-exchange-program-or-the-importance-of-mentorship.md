@@ -3,7 +3,6 @@ id: 903
 title: Lessons learned from the IBM DST Technical Exchange Program, or the importance of mentorship
 date: 2015-10-16T16:37:40-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=903
 permalink: /blog/dst-mentorship
 #permalink: /?p=903

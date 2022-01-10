@@ -3,7 +3,6 @@ id: 1594
 title: 'Viaje a Japón. Parte 2: Tokyo y Yokohama.'
 date: 2016-11-23T22:27:26-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1594
 permalink: /blog/japon2
 #permalink: /?p=1594

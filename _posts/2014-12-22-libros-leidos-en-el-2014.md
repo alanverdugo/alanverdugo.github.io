@@ -3,7 +3,6 @@ id: 287
 title: Libros leidos en el 2014
 date: 2014-12-22T11:02:04-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=287
 permalink: /blog/libros-2014
 #permalink: /?p=287

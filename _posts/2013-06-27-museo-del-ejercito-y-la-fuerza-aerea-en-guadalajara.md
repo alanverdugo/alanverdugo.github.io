@@ -3,7 +3,6 @@ id: 191
 title: Museo del ejército y la fuerza aérea en Guadalajara.
 date: 2013-06-27T20:21:59-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=191
 permalink: /blog/museo-ejercito
 #permalink: /?p=191

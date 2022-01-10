@@ -3,7 +3,6 @@ id: 2388
 title: Embracing timelessness
 date: 2021-06-10T11:21:36-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2388
 permalink: /blog/embracing-timelessness
 tags:

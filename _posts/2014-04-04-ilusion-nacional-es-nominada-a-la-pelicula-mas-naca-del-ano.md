@@ -3,7 +3,6 @@ id: 457
 title: '"Ilusión nacional" es nominada a la película más naca del año.'
 date: 2014-04-04T11:10:18-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=457
 permalink: /blog/pelicula-naca
 #permalink: /?p=457

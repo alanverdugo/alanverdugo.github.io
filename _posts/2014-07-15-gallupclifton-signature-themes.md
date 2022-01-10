@@ -3,7 +3,6 @@ id: 562
 title: Gallup/Clifton signature themes
 date: 2014-07-15T13:44:10-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=562
 permalink: /blog/gallup
 #permalink: /?p=562

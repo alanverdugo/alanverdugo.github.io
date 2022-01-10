@@ -3,7 +3,6 @@ id: 267
 title: Libros leidos en el 2013
 date: 2014-01-10T12:04:35-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=267
 permalink: /blog/libros-2013
 #permalink: /?p=267

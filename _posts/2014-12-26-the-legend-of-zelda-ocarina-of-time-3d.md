@@ -3,7 +3,6 @@ id: 519
 title: 'The Legend of Zelda: Ocarina of time 3D'
 date: 2014-12-26T13:48:50-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=519
 permalink: /blog/oot3d
 #permalink: /?p=519

@@ -3,7 +3,6 @@ id: 2067
 title: Analyzing movie rating data from an IMDB.com dataset using Python, Pandas and Matplotlib
 date: 2017-11-29T09:26:14-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2067
 permalink: /blog/movie-data
 #permalink: /?p=2067

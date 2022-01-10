@@ -3,7 +3,6 @@ id: 719
 title: 'Fallout 3: Game of the year edition'
 date: 2015-03-27T11:26:33-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=719
 permalink: /blog/fallout3
 #permalink: /?p=719

@@ -3,7 +3,6 @@ id: 921
 title: Viaje a NY (Tercera y última parte)
 date: 2015-10-18T12:29:41-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=921
 permalink: /blog/ny3
 #permalink: /?p=921

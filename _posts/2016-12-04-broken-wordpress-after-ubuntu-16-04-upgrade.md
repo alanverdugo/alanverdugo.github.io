@@ -3,7 +3,6 @@ id: 1806
 title: Broken WordPress after Ubuntu 16.04 upgrade
 date: 2016-12-04T21:26:48-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=1806
 permalink: /blog/broken-wordpress
 #permalink: /?p=1806

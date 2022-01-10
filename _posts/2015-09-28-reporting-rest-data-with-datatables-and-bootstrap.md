@@ -3,7 +3,6 @@ id: 913
 title: Reporting REST data with DataTables and Bootstrap
 date: 2015-09-28T16:31:23-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=913
 permalink: /blog/rest-data-bootstrap
 #permalink: /?p=913

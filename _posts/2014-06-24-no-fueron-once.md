@@ -3,7 +3,6 @@ id: 529
 title: No fueron once
 date: 2014-06-24T01:05:35-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=529
 permalink: /blog/no-fueron-11
 #permalink: /?p=529
