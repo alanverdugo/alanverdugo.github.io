@@ -3,7 +3,6 @@ id: 791
 title: Hollow Knight
 date: 2020-03-29T16:22:34-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=791
 permalink: /blog/hollow-knight
 #permalink: /?p=791

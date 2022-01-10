@@ -3,7 +3,6 @@ id: 2204
 title: Optimizing your resume with LaTeX
 date: 2018-03-24T23:57:21-05:00
 author: Alan Verdugo
-layout: post
 guid: http://www.kippel.net/blog/?p=2204
 permalink: /blog/resume-latex
 #permalink: /?p=2204
