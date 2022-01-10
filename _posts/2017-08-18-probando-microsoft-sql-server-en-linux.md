@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-      Voy a instalar SQL Server en Linux (específicamente en Linux Mint). Aquí voy a detallar el proceso de instsalación a modo de tutorial y también voy a ejecutar algunas consultas sencillas para demostrar el uso de SQL Server.
+      Voy a instalar SQL Server en Linux (específicamente en Linux Mint). Aquí voy a detallar el proceso de instalación a modo de tutorial y también voy a ejecutar algunas consultas sencillas para demostrar el uso de SQL Server.
 </p>
 
 <p style="text-align: justify;">
