@@ -67,11 +67,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alanverdugo"
-  sidebar:
-    - title: "Currently reading"
-      text: "The Difference Engine, by William Gibson and Bruce Sterling"
-    - title: "Currently playing"
-      text: "Cave Story (洞窟物語) - Switch"
 
 footer:
   links:
