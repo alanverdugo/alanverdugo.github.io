@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Alan Verdugo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A passionate software developer striving to make a better world, one bug at a time."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -67,6 +67,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alanverdugo"
+
+sidebar:
+  - title: "Currently reading"
+    text: "The Difference Engine, by William Gibson and Bruce Sterling"
+  - title: "Currently playing"
+    text: "Cave Story (洞窟物語) - Switch"
 
 footer:
   links:
