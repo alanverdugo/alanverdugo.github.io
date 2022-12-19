@@ -12,8 +12,6 @@ tags:
 
 ---
 
-## Introduction
-
 I was asked to run a security workshop for my team and, since this was my first time with a workshop aimed at security, I must confess that at first I had no idea of what I should do to make it both educational and entertaining.
 
 First, I was tempted to just talk about our security tools, and do demos on how to use them, but that would have been boring for everybody. Most of our security tools are already fully automated, so there was not much I could show other than some scripts being executed. Besides, this was supposed to be a *workshop*, so the interactive aspect is probably the most important part.
@@ -63,17 +61,17 @@ The CTF competition lasted for 10 days. Regardless of their daily duties, I want
 The following is the final scoreboard of the competition showing the 3 winners. As you can see, they started slowly but quickly picked up the pace.
 
 <p align="center"> 
-    <img src="./security_workshop/scoreboard.png">
+    <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/security_workshop/scoreboard.png">
 </p>
 
 The following are some competition statistics, produced automatically by CTFd:
 
 <p align="center"> 
-    <img src="./security_workshop/statistics.png">
+    <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/security_workshop/statistics.png">
 </p>
 
 <p align="center"> 
-    <img src="./security_workshop/statistics_2.png">
+    <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/security_workshop/statistics_2.png">
 </p>
 
 When the competition ended, I asked the winners to share how they solved some of their challenges, so we all could learn from them. This also encouraged discussion and ideas about different approaches.
