@@ -5,10 +5,9 @@ date: 2022-12-19T11:21:36-05:00
 author: Alan Verdugo
 guid: http://www.kippel.net/blog/?p=2389
 permalink: /blog/security-workshop
-categories:
-  - Review
 tags:
   - english
+  - hacking
 
 ---
 
