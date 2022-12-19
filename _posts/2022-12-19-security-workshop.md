@@ -29,7 +29,7 @@ I eventually chose a combination of two open source projects: [CTFd](https://ctf
 The OWASP Juice Shop is a vulnerable-by-design fictitious e-commerce site. Since it is an OWASP Flagship project, it includes vulnerabilities from the [OWASP Top 10](https://owasp.org/www-project-top-ten/), among many others. The application is supposed to be run by each participant of the workshop. Thankfully, there is a container image available, which made this very easy for everybody.
 
 <p align="center"> 
-    <img src="./security_workshop/juice_shop.png">
+    <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/security_workshop/juice_shop.png">
 </p>
 
 This project has [really good documentation](https://pwning.owasp-juice.shop/). It even includes advice on [hosting a CTF competition](https://pwning.owasp-juice.shop/part1/ctf.html), which was extremely useful.
@@ -43,7 +43,7 @@ CTFd is a "cyber-security training platform". Basically, a server from where you
 It is in the CTFd web interface were participants register, read the challenges and submit the "flags" they have found in order to get points.
 
 <p align="center"> 
-    <img src="./security_workshop/challenges.png">
+    <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/security_workshop/challenges.png">
 </p>
 
 CTFd has a [managed option](https://ctfd.io/pricing/) in case you don't have time to set it up on your own. There is also a [live demo](https://demo.ctfd.io/), so you can get familiar and see if it satisfies your requirements.
