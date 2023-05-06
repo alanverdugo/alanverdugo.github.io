@@ -19,7 +19,7 @@ Overall, this was a great experience. I learned many things and received good fe
 
 ## Choosing the tools
 
-I started researching about how to plan a cyber-security workshops, and quickly found many interesting projects, including [Google's Gruyere project](https://google-gruyere.appspot.com/) and [DVWA](https://github.com/digininja/DVWA) (or "Damn Vulnerable Web Application").
+I started researching about how to plan cyber-security workshops, and quickly found many interesting projects, including [Google's Gruyere project](https://google-gruyere.appspot.com/) and [DVWA](https://github.com/digininja/DVWA) (or "Damn Vulnerable Web Application").
 
 I eventually chose a combination of two open source projects: [CTFd](https://ctfd.io/) and the [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/). Together, they allowed me to put together exactly what I needed: An interactive and engaging way to teach the team about the importance of cyber-security.
 
