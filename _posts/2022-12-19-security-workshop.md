@@ -39,7 +39,7 @@ What I really loved about the Juice Shop is that it also includes challenges tha
 
 CTFd is a "cyber-security training platform". Basically, a server from where you control all aspects of the training sessions. It needs to be centralized, so I created an AWS EC2 instance and executed CTFd with Docker Compose. Then I shared the URL with the team and asked them to create their accounts.
 
-It is in the CTFd web interface were participants register, read the challenges and submit the "flags" they have found in order to get points.
+It is in the CTFd web interface where participants register, read the challenges and submit the "flags" they have found in order to get points.
 
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/alanverdugo/alanverdugo.github.io/master/_posts/security_workshop/challenges.png">
@@ -89,7 +89,7 @@ Here's the rundown of the all topics we talked about during the workshop:
 
 ## Conclusion
 
-I really liked how CTFd and the OWASP Juice Shop projects made it easier to prepare the whole workshop. They are mature projects and the best I could find amongst the many alternatives that have the same goals. I was just a little confused at first about how they were supposed to work together and how to configure them. This is one of the reasons why I wrote this post.
+I really liked how CTFd and the OWASP Juice Shop project made it easier to prepare the whole workshop. They are mature projects and the best I could find amongst the many alternatives that have the same goals. I was just a little confused at first about how they were supposed to work together and how to configure them. This is one of the reasons why I wrote this post.
 
 Since the team is quite young, I allowed them to see the Hints for each challenge. In a future workshop, and depending on the experience of the participants, maybe I would make the challenges harder to solve, or enable the "pay for hints" feature, which would encourage a more strategic approach ("Should I pay 200 points for a hint that may or may not help me get 300 points?").
 
